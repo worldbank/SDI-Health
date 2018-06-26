@@ -1,6 +1,6 @@
 ![SDI Logo](https://github.com/worldbank/SDI-Health/raw/master/docs/sdi.jpg)
 
-Service Delivery Indicators (SDI), a new Africa-wide initiative that collects data on service delivery in schools and health facilities, has been launched by the World Bank in partnership with the African Economic Research Consortium and the African Development Bank. SDI data are used to assess the quality and performance of health services for decision makers to track progress over time, and for citizens to hold governments accountable for public spending. No other set of indicators is available for measuring service delivery performance and quality at health facilities from the perspective of citizens.
+**Service Delivery Indicators (SDI), a new Africa-wide initiative that collects data on service delivery in schools and health facilities, has been launched by the World Bank in partnership with the African Economic Research Consortium and the African Development Bank. SDI data are used to assess the quality and performance of health services for decision makers to track progress over time, and for citizens to hold governments accountable for public spending. No other set of indicators is available for measuring service delivery performance and quality at health facilities from the perspective of citizens.**
 
 ![SDI Countries](https://github.com/worldbank/SDI-Health/raw/master/docs/countries.png)
 
