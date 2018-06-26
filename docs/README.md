@@ -1,6 +1,6 @@
 # Service Delivery Indicators
 
-The Service Delivery Indicators (SDI) provide a set of metrics for benchmarking service delivery performance in education and health. The overall objective of the indicators is to gauge the quality of service delivery in primary education and basic health services. The indicators enable the identification of gaps and tracking of progress over time and across countries. It is envisaged that the broad availability, high public awareness, and a persistent focus on the indicators will mobilize policymakers, citizens, service providers, donors, and other stakeholders for action to improve the quality of services and ultimately to improve development outcomes and social welfare.
+The Service Delivery Indicators (SDI) provide a set of metrics for benchmarking service delivery performance in education and health. The overall objective of the indicators is to gauge the quality of service delivery in primary education and basic health services. The indicators enable the identification of gaps and tracking of progress over time and across countries. It is envisaged that the broad availability, high public awareness, and a persistent focus on the indicators will mobilize policymakers, citizens, service providers, donors, and other stakeholders for action to improve the quality of services and ultimately to improve development outcomes and social welfare. See [http://www.sdindicators.org](http://www.sdindicators.org) for more information.
 
 # Using this Respository
 
