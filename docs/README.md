@@ -10,7 +10,9 @@ The Service Delivery Indicators (SDI) provide a set of metrics for benchmarking 
 
 # Using this Respository
 
-This repository contains de-identified data from ten rounds of SDI data on health facilities across nine countries. It provides code to clean and harmonize these into a single "Service Delivery Indicators Health Surveys" dataset, containing background information and vignettes results for 10,230 provider interactions. This data can be freely used to conduct analysis, and this repository serves as a central clearinghouse for comments and improvements that are needed in the harmonization of the data. [View the repository on the World Bank GitHub to access the materials.](https://github.com/worldbank/SDI-Health)
+This repository contains de-identified data from ten rounds of SDI data on health facilities across nine countries. It provides code to clean and harmonize these into a single "Service Delivery Indicators Health Surveys" dataset, containing background information and vignettes results for 10,230 provider interactions. This data can be freely used to conduct analysis, and this repository serves as a central clearinghouse for comments and improvements that are needed in the harmonization of the data. [View the repository on the World Bank GitHub to access the materials.](https://github.com/worldbank/SDI-Health) We recommend including this repository in your analysis repository as a [submodule](https://blog.github.com/2016-02-01-working-with-submodules/) using the Git command:
+
+```git submodule add https://github.com/worldbank/SDI-Health.git SDI-Health```
 
 ![SDI Logo](https://github.com/worldbank/SDI-Health/raw/master/docs/image001.png)
 
