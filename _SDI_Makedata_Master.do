@@ -12,7 +12,7 @@ Last edited: May 3rd, 2018
 * Enter the path to the root directory: 
 
 	global root ///
-		"C:\Users\annak\Box Sync\WB Work\WB Github Repo"
+		"C:\Users\annak\Documents\GitHub\SDI-Health"
 
 * Enter the list of countries to analyze: 
 	
