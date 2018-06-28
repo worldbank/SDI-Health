@@ -47,4 +47,5 @@ In this way, Git will associate your analysis with a specific commit of the data
 ```git submodule update```
 
 
+### Acknowledgements
 Data prepared and do-files written by Anna Konstantinova and Benjamin Daniels, with support from Jishnu Das, Waly Wane, Christophe Rockmore, and Matthew Collins.
