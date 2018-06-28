@@ -41,7 +41,10 @@ In the "scripts/harmonization" folder, there are three do-files, each responsibl
 
 ### Using the data
 Should you use this data for analysis, we recommend including this repository in your analysis repository as a submodule using the Git command:
-git submodule add https://github.com/worldbank/SDI-Health.git SDI-Health
+```git submodule add https://github.com/worldbank/SDI-Health.git SDI-Health```
 
 In this way, Git will associate your analysis with a specific commit of the data respository. The commit used in your analysis respository can be updated using the Git command: 
-git submodule update
+```git submodule update```
+
+
+Data prepared and do-files written by Anna Konstantinova and Benjamin Daniels, with support from Jishnu Das, Waly Wane, Christophe Rockmore, and Matthew Collins.
