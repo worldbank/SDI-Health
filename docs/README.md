@@ -16,6 +16,6 @@ This repository contains de-identified data from ten rounds of SDI data on healt
 
 # Acknowledgements
 
-Data prepared and do-files written by Anna Konstantinova and Benjamin Daniels, with support from Jishnu Das, Waly Wane, Christophe Rockmore, and Matthew Collins.
+Data prepared and do-files written by Anna Konstantinova and Benjamin Daniels, with support from Jishnu Das, Waly Wane, Christophe Rockmore, and Matthew Collins. Materials will be updated periodically. 
 
 ![DEC Logo](https://github.com/worldbank/SDI-Health/raw/master/docs/dec.jpg)
