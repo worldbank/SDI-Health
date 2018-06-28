@@ -14,4 +14,6 @@ This repository contains de-identified data from ten rounds of SDI data on healt
 
 ```git submodule add https://github.com/worldbank/SDI-Health.git SDI-Health```
 
+# Acknowledgements
+
 Data prepared and do-files written by Anna Konstantinova and Benjamin Daniels, with support from Jishnu Das, Waly Wane, Christophe Rockmore, and Matthew Collins.
