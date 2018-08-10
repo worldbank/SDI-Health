@@ -1,0 +1,1365 @@
+fac_id,staff_id,m2sfq1,m2sfq3,m2sfq4,m2sfq7,m2sfq8,m2sfq9,m2sfq10,m2sfq11,m2sfq12,m2sfq13,m2sfq14,m2sfq14aut,m2sfq15,m2sfq16,m2sgq1,m2sgq3,m2sgq5,m2sgq6,m2sgq7,m2sgq8,m2sgq8aut,m2sgq9,m2sgq10
+1,1,Over 50,Over 5,1,Doctor,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Formation/séminaire/réunion,,Non,Non,,,,,,,,,
+1,2,Over 50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,2.0,Clinical Officer,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+1,3,Over 50,Over 5,3,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Non,Formation/séminaire/réunion,,Oui,Non,2.0,3.0,Nurse,Femme,Non,Formation/séminaire/réunion,,,
+1,4,Over 50,Over 5,4,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,3.0,4.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+1,5,Over 50,Over 5,5,Other,Post-Secondary,Advanced,Femme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+1,6,Over 50,Over 5,6,Nurse,Secondary,Diploma,Homme,45 or older,Non,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+1,7,Over 50,Over 5,7,Nurse,Secondary,Diploma,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+1,8,Over 50,Over 5,8,Nurse,Secondary,Diploma,Homme,35-44,Non,Non,Absence autorisée (permission/congé),,Oui,Non,4.0,8.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+1,9,Over 50,Over 5,9,Nurse,Secondary,Diploma,Femme,35-44,Non,Oui,,,Oui,Non,5.0,9.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+1,10,Over 50,Over 5,10,Other,Secondary,Diploma,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+1,11,Over 50,Over 5,11,Nurse,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,6.0,11.0,Nurse,Homme,Non,Absence non autorisée,,,
+1,12,Over 50,Over 5,12,Other,Primary,None,Femme,45 or older,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+1,13,Over 50,Over 5,13,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,7.0,13.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+1,14,Over 50,Over 5,14,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,8.0,14.0,Clinical Officer,Homme,Non,Absence non autorisée,,,
+1,15,Over 50,Over 5,15,Other,Secondary,Diploma,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,9.0,15.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+1,16,Over 50,Over 5,16,Other,Secondary,Diploma,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+1,17,Over 50,Over 5,17,Other,Primary,Certificate,Femme,35-44,Oui,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+1,18,Over 50,Over 5,18,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+1,19,Over 50,Over 5,19,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+1,20,Over 50,Over 5,20,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+1,21,Over 50,Over 5,21,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Oui,Oui,10.0,21.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+1,22,Over 50,Over 5,22,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+1,23,Over 50,Over 5,23,Nurse,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+1,24,Over 50,Over 5,24,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Maladie/maternité,,Non,Non,,,,,,,,,
+1,25,Over 50,Over 5,25,Other,Primary,None,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+2,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence non autorisée,,,
+2,2,5 or less,5 or less,2,Other,Secondary,None,Femme,Younger than 25,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Autres,Non
+3,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+3,2,5 or less,5 or less,2,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+4,1,6-10,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+4,2,6-10,5 or less,2,Other,Secondary,Diploma,Homme,35-44,Non,Oui,,,Oui,Non,2.0,2.0,Other,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+4,3,6-10,5 or less,3,Other,Secondary,Diploma,Femme,Younger than 25,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+4,4,6-10,5 or less,4,Other,Secondary,None,Femme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,4.0,4.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+4,5,6-10,5 or less,5,Other,Primary,None,Femme,Younger than 25,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Cherche des informations/formation,Non
+5,1,11-50,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Non,Non,,,,,,,,,
+5,2,11-50,5 or less,2,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Oui,Oui,1.0,2.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+5,3,11-50,5 or less,3,Other,Secondary,Diploma,Homme,45 or older,Non,Non,Absence autorisée (permission/congé),,Oui,,2.0,3.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+5,4,11-50,5 or less,4,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,3.0,4.0,Other,Homme,Oui,Absence autorisée (permission/congé),,Cherche des informations/formation,Non
+5,5,11-50,5 or less,5,Other,Post-Secondary,Advanced,Homme,25-34,Non,Non,Absence autorisée (permission/congé),,Oui,,4.0,5.0,Other,Homme,Non,Absence autorisée (permission/congé),,Cherche des informations/formation,Non
+5,6,11-50,5 or less,6,Nurse,Primary,Certificate,Homme,45 or older,Oui,Oui,,,Oui,Oui,5.0,6.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+5,7,11-50,5 or less,7,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,6.0,7.0,Nurse,Homme,Oui,Absence autorisée (permission/congé),,Consultation/visite de malade,Non
+5,8,11-50,5 or less,8,Nurse,Primary,Certificate,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,7.0,8.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+5,9,11-50,5 or less,9,Nurse,Primary,Certificate,Homme,45 or older,Non,Non,Absence autorisée (permission/congé),,Oui,,8.0,9.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+5,10,11-50,5 or less,10,Other,Secondary,Diploma,Femme,35-44,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+5,11,11-50,5 or less,11,Other,Primary,None,Femme,35-44,Non,Oui,,,Oui,Oui,9.0,11.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+5,12,11-50,5 or less,12,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,10.0,12.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+5,13,11-50,5 or less,13,Other,Primary,None,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+6,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+6,2,5 or less,5 or less,2,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Non,Absence non autorisée,,,
+7,1,6-10,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,,1.0,Nurse,Homme,Non,Autres (à préciser),,,
+7,2,6-10,5 or less,2,Other,Secondary,None,Homme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+7,3,6-10,5 or less,3,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Non,Autres (à préciser),,,
+7,4,6-10,5 or less,4,Other,Secondary,None,Homme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,4.0,4.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+7,5,6-10,5 or less,5,Other,Secondary,None,Femme,35-44,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Autres,Non
+8,1,6-10,5 or less,1,Nurse,Post-Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+8,2,6-10,5 or less,2,Other,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+8,3,6-10,5 or less,3,Other,Primary,None,Homme,45 or older,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+8,4,6-10,5 or less,4,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Oui,,,Autres,Non
+8,5,6-10,5 or less,5,Other,Secondary,None,Homme,45 or older,Non,Oui,,,Oui,Non,5.0,5.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+8,6,6-10,5 or less,6,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,6.0,6.0,Other,Femme,Oui,,,Autres,Non
+9,1,6-10,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+9,2,6-10,5 or less,2,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+9,3,6-10,5 or less,3,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+9,4,6-10,5 or less,4,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+9,5,6-10,5 or less,5,Other,Primary,None,Femme,45 or older,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+10,1,6-10,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+10,2,6-10,5 or less,2,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Formation/séminaire/réunion,,Oui,Non,2.0,2.0,Nurse,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+10,3,6-10,5 or less,3,Other,Primary,Certificate,Femme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Oui,,3.0,3.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+10,4,6-10,5 or less,4,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+10,5,6-10,5 or less,5,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,5.0,5.0,Other,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+10,6,6-10,5 or less,6,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,6.0,6.0,Other,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+11,1,6-10,5 or less,1,Nurse,Post-Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+11,2,6-10,5 or less,2,Other,Post-Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+11,3,6-10,5 or less,3,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+11,4,6-10,5 or less,4,Other,Secondary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+11,5,6-10,5 or less,5,Other,Post-Secondary,None,Femme,35-44,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+11,6,6-10,5 or less,6,Other,Secondary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,6.0,6.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+11,7,6-10,5 or less,7,Other,Secondary,None,Homme,45 or older,Non,Oui,,,Oui,Non,7.0,7.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+11,8,6-10,5 or less,8,Other,Secondary,None,Homme,45 or older,Non,Non,Maladie/maternité,,Oui,Non,8.0,8.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+12,1,6-10,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence non autorisée,,,
+12,2,6-10,5 or less,2,Other,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Non,Autres (à préciser),Q8(11)=SONT TOUS PARTIS AVANT L'HEURE DE FERMETURE,,
+12,3,6-10,5 or less,3,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+12,4,6-10,5 or less,4,Other,Secondary,None,Homme,35-44,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Homme,Non,Autres (à préciser),Q8(11)=SONT TOUS PARTIS AVANT L'HEURE DE FERMETURE,,
+12,5,6-10,5 or less,5,Other,Primary,None,Homme,35-44,Oui,Oui,,,Oui,Oui,5.0,5.0,Other,Homme,Non,Autres (à préciser),Q8(11)=SONT TOUS PARTIS AVANT L'HEURE DE FERMETURE,,
+12,6,6-10,5 or less,6,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,6.0,6.0,Other,Femme,Non,Autres (à préciser),Q8(11)=SONT TOUS PARTIS AVANT L'HEURE DE FERMETURE,,
+13,1,6-10,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+13,2,6-10,5 or less,2,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+13,3,6-10,5 or less,3,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+13,4,6-10,5 or less,4,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+13,5,6-10,5 or less,5,Other,Primary,None,Femme,25-34,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+13,6,6-10,5 or less,6,Nurse,Primary,None,Homme,25-34,Oui,Oui,,,Oui,Oui,6.0,6.0,Nurse,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+13,7,6-10,5 or less,7,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,7.0,7.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+14,1,6-10,5 or less,1,Nurse,Post-Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,,1.0,Nurse,Homme,Non,Absence non autorisée,,,
+14,2,6-10,5 or less,2,Other,Secondary,None,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+14,3,6-10,5 or less,3,Other,Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Autres,Non
+14,4,6-10,5 or less,4,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Non,Absence non autorisée,,,
+14,5,6-10,5 or less,5,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,5.0,5.0,Other,Femme,Non,Absence non autorisée,,,
+14,6,6-10,5 or less,6,Other,Post-Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,6.0,6.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+15,1,11-50,5 or less,1,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+15,2,11-50,5 or less,2,Doctor,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+15,3,11-50,5 or less,3,Nurse,Post-Secondary,Advanced,Femme,Younger than 25,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,2.0,3.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+15,4,11-50,5 or less,4,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,3.0,4.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+15,5,11-50,5 or less,5,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,4.0,5.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+15,6,11-50,5 or less,6,Nurse,Secondary,None,Homme,35-44,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,5.0,6.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+15,7,11-50,5 or less,7,Nurse,Secondary,None,Homme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,6.0,7.0,Nurse,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+15,8,11-50,5 or less,8,Other,Secondary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,7.0,8.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+15,9,11-50,5 or less,9,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,8.0,9.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+15,10,11-50,5 or less,10,Other,Secondary,Diploma,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+15,11,11-50,5 or less,11,Other,Primary,Certificate,Femme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+15,12,11-50,5 or less,12,Other,Secondary,Diploma,Femme,45 or older,Non,Oui,,,Oui,Non,9.0,12.0,Other,Femme,Non,Organisation interne en journée continue,,,
+15,13,11-50,5 or less,13,Other,Primary,None,Femme,25-34,Non,Non,Absence autorisée (permission/congé),,Oui,Non,10.0,13.0,Other,Femme,Oui,,,Autres,Non
+16,1,6-10,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+16,2,6-10,5 or less,2,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,2.0,2.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+16,3,6-10,5 or less,3,Other,Post-Secondary,Advanced,Femme,45 or older,Oui,Non,Absence non autorisée,,Oui,,3.0,3.0,Other,Femme,Non,Absence non autorisée,,,
+16,4,6-10,5 or less,4,Nurse,Primary,None,Homme,45 or older,Oui,Oui,,,Oui,Oui,4.0,4.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+16,5,6-10,5 or less,5,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,5.0,5.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+16,6,6-10,5 or less,6,Other,Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,6.0,6.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+17,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+17,2,5 or less,5 or less,2,Other,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+17,3,5 or less,5 or less,3,Other,Primary,Certificate,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+17,4,5 or less,5 or less,4,Other,Primary,Certificate,Femme,45 or older,Non,Oui,,,Oui,Non,4.0,4.0,Other,Femme,Oui,,,Laboratoires/examens/radios,Non
+18,1,6-10,5 or less,1,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+18,2,6-10,5 or less,2,Other,Secondary,Diploma,Femme,25-34,Oui,Non,Maladie/maternité,,Oui,,2.0,2.0,Other,Femme,Non,Absence non autorisée,,,
+18,3,6-10,5 or less,3,Other,Primary,Certificate,Femme,45 or older,Non,Oui,,,Oui,Non,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+18,4,6-10,5 or less,4,Other,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+19,1,11-50,Over 5,1,Doctor,Post-Secondary,Advanced,Homme,35-44,Non,Non,Formation/séminaire/réunion,,Non,Non,,,,,,,,,
+19,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Formation/séminaire/réunion,,Non,Non,,,,,,,,,
+19,3,11-50,Over 5,3,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+19,4,11-50,Over 5,4,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Non,Formation/séminaire/réunion,,Non,Non,,,,,,,,,
+19,5,11-50,Over 5,5,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Non,Formation/séminaire/réunion,,Oui,Non,1.0,5.0,Nurse,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+19,6,11-50,Over 5,6,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Non,Formation/séminaire/réunion,,Non,Non,,,,,,,,,
+19,7,11-50,Over 5,7,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Non,Maladie/maternité,,Oui,Non,2.0,7.0,Nurse,Femme,Non,Absence non autorisée,,,
+19,8,11-50,Over 5,8,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Mission officielle,,Non,Non,,,,,,,,,
+19,9,11-50,Over 5,9,Other,Post-Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,3.0,9.0,Other,Homme,Non,Organisation interne en journée continue,,,
+19,10,11-50,Over 5,10,Other,Post-Secondary,Advanced,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+19,11,11-50,Over 5,11,Other,Secondary,Diploma,Femme,45 or older,Non,Non,Absence autorisée (permission/congé),,Oui,Non,4.0,11.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+19,12,11-50,Over 5,12,Nurse,Primary,Certificate,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,5.0,12.0,Nurse,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+19,13,11-50,Over 5,13,Nurse,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+19,14,11-50,Over 5,14,Nurse,Primary,Certificate,Femme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+19,15,11-50,Over 5,15,Other,Primary,Certificate,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+19,16,11-50,Over 5,16,Other,Primary,Certificate,Femme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,6.0,16.0,Other,Femme,Non,Organisation interne en journée continue,,,
+19,17,11-50,Over 5,17,Other,Primary,Certificate,Femme,45 or older,Oui,Non,Formation/séminaire/réunion,,Oui,Non,7.0,17.0,Other,Femme,Non,Absence non autorisée,,,
+19,18,11-50,Over 5,18,Other,Primary,Certificate,Femme,35-44,Oui,Oui,,,Oui,Oui,8.0,18.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+19,19,11-50,Over 5,19,Other,Secondary,Diploma,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,9.0,19.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+19,20,11-50,Over 5,20,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,10.0,20.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+19,21,11-50,Over 5,21,Other,Primary,Certificate,Femme,45 or older,Non,Non,Mission officielle,,Non,Non,,,,,,,,,
+20,1,11-50,5 or less,1,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Femme,Non,Maladie/maternité,,,
+20,2,11-50,5 or less,2,Nurse,Secondary,Diploma,Femme,35-44,Non,Oui,,,Oui,Non,2.0,2.0,Nurse,Femme,Oui,,,Autres,Non
+20,3,11-50,5 or less,3,Other,Secondary,Diploma,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,3.0,3.0,Other,Femme,Non,Formation/séminaire/réunion,,,
+20,4,11-50,5 or less,4,Nurse,Secondary,Diploma,Homme,25-34,Oui,Non,Organisation interne en journée continue,,Oui,Non,4.0,4.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+20,5,11-50,5 or less,5,Nurse,Secondary,None,Homme,25-34,Oui,Oui,,,Oui,Oui,5.0,5.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+20,6,11-50,5 or less,6,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,6.0,6.0,Other,Femme,Non,Formation/séminaire/réunion,,,
+20,7,11-50,5 or less,7,Other,Secondary,None,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,7.0,7.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+20,8,11-50,5 or less,8,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,8.0,8.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+20,9,11-50,5 or less,9,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,9.0,9.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+21,1,5 or less,5 or less,1,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Other,Femme,Non,Autres (à préciser),,,
+22,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Autres (à préciser),NE SAIT PAS,,
+22,2,5 or less,5 or less,2,Doctor,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Mission officielle,,Oui,Non,2.0,2.0,Doctor,Homme,Non,Mission officielle,,,
+22,3,5 or less,5 or less,3,Other,Secondary,Diploma,Homme,25-34,Non,Non,Mission officielle,,Oui,Non,3.0,3.0,Other,Homme,Non,Mission officielle,,,
+23,1,11-50,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Non,Organisation interne en journée continue,,,
+23,2,11-50,5 or less,2,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+23,3,11-50,5 or less,3,Nurse,Secondary,Diploma,Homme,25-34,Oui,Non,Formation/séminaire/réunion,,Oui,Non,3.0,3.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+23,4,11-50,5 or less,4,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,4.0,4.0,Nurse,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+23,5,11-50,5 or less,5,Other,Secondary,Diploma,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,5.0,5.0,Other,Femme,Non,Absence non autorisée,,,
+23,6,11-50,5 or less,6,Other,Primary,None,Femme,25-34,Oui,Non,Maladie/maternité,,Oui,Non,6.0,6.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+23,7,11-50,5 or less,7,Other,Secondary,None,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,7.0,7.0,Other,Femme,Oui,,,Cherche des informations/formation,Non
+23,8,11-50,5 or less,8,Nurse,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,8.0,8.0,Nurse,Femme,Non,Absence non autorisée,,,
+23,9,11-50,5 or less,9,Nurse,Primary,None,Femme,25-34,Non,Non,Maladie/maternité,,Oui,Non,9.0,9.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+23,10,11-50,5 or less,10,Other,Post-Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,10.0,10.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+24,1,6-10,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+24,2,6-10,5 or less,2,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+24,3,6-10,5 or less,3,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+24,4,6-10,5 or less,4,Other,Post-Secondary,Advanced,Homme,45 or older,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+24,5,6-10,5 or less,5,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+24,6,6-10,5 or less,6,Other,Primary,None,Femme,25-34,Non,Oui,,,Oui,Non,6.0,6.0,Other,Femme,Oui,,,Autres,Non
+25,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Autres (à préciser),,,
+25,2,5 or less,5 or less,2,Other,Secondary,None,Femme,Younger than 25,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Non,Autres (à préciser),,,
+25,3,5 or less,5 or less,3,Other,Secondary,None,Femme,45 or older,Non,Oui,,,Oui,Non,3.0,3.0,Other,Femme,Non,Autres (à préciser),,,
+26,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Mission officielle,,,
+26,2,5 or less,5 or less,2,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+26,3,5 or less,5 or less,3,Other,Secondary,None,Homme,45 or older,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Autres,Non
+27,1,6-10,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Formation/séminaire/réunion,,,
+27,2,6-10,5 or less,2,Other,Secondary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+27,3,6-10,5 or less,3,Other,Secondary,None,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,3.0,3.0,Other,Femme,Non,Absence non autorisée,,,
+27,4,6-10,5 or less,4,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Other,Femme,Oui,,,Autres,Non
+27,5,6-10,5 or less,5,Other,Secondary,None,Femme,45 or older,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Non,Absence non autorisée,,,
+28,1,5 or less,5 or less,1,Doctor,Post-Secondary,,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Doctor,Homme,Non,Autres (à préciser),,,
+28,2,5 or less,5 or less,2,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,2.0,2.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+29,1,11-50,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,45 or older,Oui,Non,Mission officielle,,Oui,Non,1.0,1.0,Clinical Officer,Homme,Non,Organisation interne en journée continue,,,
+29,2,11-50,5 or less,2,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Clinical Officer,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+29,3,11-50,5 or less,3,Clinical Officer,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+29,4,11-50,5 or less,4,Nurse,Post-Secondary,Advanced,Homme,25-34,Non,Non,Formation/séminaire/réunion,,Oui,Non,3.0,4.0,Nurse,Homme,Non,Mission officielle,,,
+29,5,11-50,5 or less,5,Nurse,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,4.0,5.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+29,6,11-50,5 or less,6,Nurse,Post-Secondary,Advanced,Femme,Younger than 25,Oui,Non,Maladie/maternité,,Oui,Non,5.0,6.0,Nurse,Femme,Non,Maladie/maternité,,,
+29,7,11-50,5 or less,7,Nurse,Post-Secondary,Advanced,Femme,Younger than 25,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,6.0,7.0,Nurse,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+29,8,11-50,5 or less,8,Other,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+29,9,11-50,5 or less,9,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+29,10,11-50,5 or less,10,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,7.0,10.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+29,11,11-50,5 or less,11,Other,Secondary,None,Femme,35-44,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+29,12,11-50,5 or less,12,Other,Secondary,None,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+29,13,11-50,5 or less,13,Other,Primary,None,Femme,45 or older,Non,Oui,,,Oui,Non,8.0,13.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+29,14,11-50,5 or less,14,Other,Post-Secondary,,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+29,15,11-50,5 or less,15,Other,Primary,Certificate,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+29,16,11-50,5 or less,16,Other,Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,9.0,16.0,Other,Homme,Non,Organisation interne en journée continue,,,
+29,17,11-50,5 or less,17,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,10.0,17.0,Other,Femme,Oui,Organisation interne en journée continue,,Laboratoires/examens/radios,Non
+30,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+30,2,5 or less,5 or less,2,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+31,1,5 or less,5 or less,1,Nurse,Post-Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+31,2,5 or less,5 or less,2,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Oui
+31,3,5 or less,5 or less,3,Other,Secondary,None,Femme,35-44,Non,Oui,,,Oui,Non,3.0,3.0,Other,Femme,Oui,,,Autres,Oui
+32,1,6-10,5 or less,1,Nurse,Post-Secondary,Advanced,Femme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+32,2,6-10,5 or less,2,Nurse,Post-Secondary,Advanced,Femme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Oui,,2.0,2.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+32,3,6-10,5 or less,3,Nurse,Post-Secondary,Advanced,Femme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Oui,,3.0,3.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+32,4,6-10,5 or less,4,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Oui,Non,4.0,4.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+32,5,6-10,5 or less,5,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Oui,Non,5.0,5.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+32,6,6-10,5 or less,6,Nurse,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,6.0,6.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+32,7,6-10,5 or less,7,Other,Primary,None,Femme,25-34,Non,Oui,,,Oui,Non,7.0,7.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+32,8,6-10,5 or less,8,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,8.0,8.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+32,9,6-10,5 or less,9,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,9.0,9.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+33,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Mission officielle,,,
+33,2,5 or less,5 or less,2,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+33,3,5 or less,5 or less,3,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+34,1,6-10,5 or less,1,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Non,Mission officielle,,Oui,,1.0,1.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+34,2,6-10,5 or less,2,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,,2.0,2.0,Clinical Officer,Homme,Non,Absence autorisée (permission/congé),,,
+34,3,6-10,5 or less,3,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+34,4,6-10,5 or less,4,Other,Primary,None,Femme,45 or older,Non,Oui,,,Oui,Non,4.0,4.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+34,5,6-10,5 or less,5,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,5.0,5.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+34,6,6-10,5 or less,6,Other,Post-Secondary,,Homme,25-34,Non,Oui,,,Oui,Non,6.0,6.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+34,7,6-10,5 or less,7,Other,Primary,None,Femme,45 or older,Non,Oui,,,Oui,Non,7.0,7.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+35,1,5 or less,5 or less,1,Nurse,Primary,Certificate,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+35,2,5 or less,5 or less,2,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Non,Formation/séminaire/réunion,,,
+35,3,5 or less,5 or less,3,Other,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+35,4,5 or less,5 or less,4,Other,Primary,Certificate,Homme,45 or older,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+35,5,5 or less,5 or less,5,Other,Secondary,None,Femme,Younger than 25,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Autres,Non
+36,1,11-50,Over 5,1,Doctor,Post-Secondary,Advanced,Homme,45 or older,Oui,Non,Mission officielle,,Oui,,1.0,1.0,Doctor,Homme,Oui,,,Laboratoires/examens/radios,Non
+36,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Clinical Officer,Homme,Non,Mission officielle,,,
+36,3,11-50,Over 5,3,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,3.0,3.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+36,4,11-50,Over 5,4,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Oui,Oui,4.0,4.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+36,5,11-50,Over 5,5,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Oui,Oui,5.0,5.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+36,6,11-50,Over 5,6,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,6.0,6.0,Other,Homme,Non,Mission officielle,,,
+36,7,11-50,Over 5,7,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+36,8,11-50,Over 5,8,Nurse,Primary,Certificate,Homme,35-44,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+36,9,11-50,Over 5,9,Other,Primary,Certificate,Homme,35-44,Oui,Oui,,,Oui,Oui,7.0,9.0,Other,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+36,10,11-50,Over 5,10,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,8.0,10.0,Other,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+36,11,11-50,Over 5,11,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+36,12,11-50,Over 5,12,Other,Secondary,None,Femme,35-44,Non,Oui,,,Oui,Non,9.0,12.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+36,13,11-50,Over 5,13,Other,Secondary,None,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+36,14,11-50,Over 5,14,Other,Secondary,None,Homme,35-44,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,10.0,14.0,Other,Homme,Non,Mission officielle,,,
+37,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+37,2,5 or less,5 or less,2,Other,Primary,Certificate,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+37,3,5 or less,5 or less,3,Other,Primary,Certificate,Femme,25-34,Non,Oui,,,Oui,Non,3.0,3.0,Other,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+38,1,Over 50,Over 5,1,Doctor,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Mission officielle,,Non,,,,,,,,,,
+38,2,Over 50,Over 5,2,Doctor,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Absence non autorisée,,Oui,,1.0,2.0,Doctor,Homme,Non,Absence autorisée (permission/congé),,,
+38,3,Over 50,Over 5,3,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Mission officielle,,Oui,,2.0,3.0,Clinical Officer,Homme,Non,Formation/séminaire/réunion,,,
+38,4,Over 50,Over 5,4,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Mission officielle,,Oui,,3.0,4.0,Clinical Officer,Homme,Non,Formation/séminaire/réunion,,,
+38,5,Over 50,Over 5,5,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Non,Mission officielle,,Oui,,4.0,5.0,Nurse,Femme,Non,Formation/séminaire/réunion,,,
+38,6,Over 50,Over 5,6,Other,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+38,7,Over 50,Over 5,7,Other,Primary,Certificate,Femme,35-44,Oui,Non,Mission officielle,,Non,,,,,,,,,,
+38,8,Over 50,Over 5,8,Other,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+38,9,Over 50,Over 5,9,Other,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+38,10,Over 50,Over 5,10,Other,Primary,Certificate,Femme,45 or older,Oui,Non,Maladie/maternité,,Oui,,5.0,10.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+38,11,Over 50,Over 5,11,Other,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Oui,Oui,6.0,11.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+38,12,Over 50,Over 5,12,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+38,13,Over 50,Over 5,13,Nurse,Post-Secondary,Advanced,Femme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+38,14,Over 50,Over 5,14,Nurse,Secondary,Diploma,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+38,15,Over 50,Over 5,15,Nurse,Secondary,Diploma,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+38,16,Over 50,Over 5,16,Other,Primary,Certificate,Femme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+38,17,Over 50,Over 5,17,Other,Primary,Certificate,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+38,18,Over 50,Over 5,18,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,7.0,18.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+38,19,Over 50,Over 5,19,Other,Primary,Certificate,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+38,20,Over 50,Over 5,20,Other,Secondary,Diploma,Homme,35-44,Non,Oui,,,Oui,Non,8.0,20.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+38,21,Over 50,Over 5,21,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,9.0,21.0,Other,Homme,Non,Mission officielle,,,
+38,22,Over 50,Over 5,22,Other,Secondary,Diploma,Homme,35-44,Non,Oui,,,Oui,Non,10.0,22.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+38,23,Over 50,Over 5,23,Other,Post-Secondary,Diploma,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+38,24,Over 50,Over 5,24,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+38,25,Over 50,Over 5,25,Other,Secondary,Diploma,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+39,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence non autorisée,,,
+39,2,5 or less,5 or less,2,Other,Primary,Certificate,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Non,Absence non autorisée,,,
+39,3,5 or less,5 or less,3,Other,Primary,None,Femme,25-34,Non,Oui,,,Oui,Non,3.0,3.0,Other,Femme,Non,Absence non autorisée,,,
+40,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Mission officielle,,,
+40,2,5 or less,5 or less,2,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+40,3,5 or less,5 or less,3,Other,Primary,None,Femme,Younger than 25,Non,Oui,,,Oui,Non,3.0,3.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+40,4,5 or less,5 or less,4,Other,Primary,None,Homme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+41,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+41,2,5 or less,5 or less,2,Other,Primary,None,Femme,25-34,Oui,Non,Mission officielle,,Oui,,2.0,2.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+41,3,5 or less,5 or less,3,Other,Primary,None,Femme,45 or older,Non,Non,Organisation interne en journée continue,,Oui,,3.0,3.0,Other,Femme,Non,Absence non autorisée,,,
+42,1,11-50,Over 5,1,Doctor,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Formation/séminaire/réunion,,Oui,Non,1.0,1.0,Doctor,Homme,Non,Mission officielle,,,
+42,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Clinical Officer,Homme,Non,Mission officielle,,,
+42,3,11-50,Over 5,3,Nurse,Secondary,Diploma,Homme,35-44,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,3.0,3.0,Nurse,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+42,4,11-50,Over 5,4,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+42,5,11-50,Over 5,5,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,"Repos de garde (pré-garde, sortie de garde)",,Non,Oui,,,,,,,,,
+42,6,11-50,Over 5,6,Clinical Officer,Post-Secondary,Advanced,Homme,Younger than 25,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+42,7,11-50,Over 5,7,Nurse,Secondary,Diploma,Homme,45 or older,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+42,8,11-50,Over 5,8,Nurse,Secondary,Diploma,Homme,45 or older,Non,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+42,9,11-50,Over 5,9,Nurse,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+42,10,11-50,Over 5,10,Nurse,Secondary,Diploma,Homme,35-44,Non,Oui,,,Oui,Non,4.0,10.0,Nurse,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+42,11,11-50,Over 5,11,Other,Secondary,None,Femme,25-34,Non,Non,Maladie/maternité,,Non,Non,,,,,,,,,
+42,12,11-50,Over 5,12,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Oui,Oui,5.0,12.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+42,13,11-50,Over 5,13,Nurse,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+42,14,11-50,Over 5,14,Other,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+42,15,11-50,Over 5,15,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+42,16,11-50,Over 5,16,Other,Secondary,None,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,6.0,16.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+42,17,11-50,Over 5,17,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+42,18,11-50,Over 5,18,Other,Post-Secondary,Advanced,Femme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+42,19,11-50,Over 5,19,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+42,20,11-50,Over 5,20,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,7.0,20.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+42,21,11-50,Over 5,21,Nurse,Secondary,Diploma,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+42,22,11-50,Over 5,22,Other,Secondary,Diploma,Femme,45 or older,Non,Oui,,,Oui,Non,8.0,22.0,Other,Femme,Oui,,,Laboratoires/examens/radios,Non
+42,23,11-50,Over 5,23,Other,Secondary,Diploma,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+42,24,11-50,Over 5,24,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+42,25,11-50,Over 5,25,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,9.0,25.0,Other,Homme,Non,Organisation interne en journée continue,,,
+43,1,5 or less,5 or less,1,Other,Post-Secondary,None,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Oui
+45,1,11-50,Over 5,1,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+45,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,,Homme,45 or older,Non,Oui,,,Oui,Non,1.0,2.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+45,3,11-50,Over 5,3,Other,Post-Secondary,Advanced,Homme,45 or older,Non,Non,Absence autorisée (permission/congé),,Oui,,2.0,3.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+45,4,11-50,Over 5,4,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,4.0,Nurse,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+45,5,11-50,Over 5,5,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Oui,Oui,4.0,5.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Oui
+45,6,11-50,Over 5,6,Other,Secondary,Diploma,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+45,7,11-50,Over 5,7,Other,Secondary,Diploma,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+45,8,11-50,Over 5,8,Other,Primary,None,Femme,45 or older,Oui,Non,Maladie/maternité,,Non,,,,,,,,,,
+45,9,11-50,Over 5,9,Other,Secondary,Diploma,Homme,35-44,Non,Oui,,,Oui,Non,5.0,9.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Oui
+45,10,11-50,Over 5,10,Other,Primary,None,Homme,35-44,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,6.0,10.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+45,11,11-50,Over 5,11,Other,Primary,None,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+45,12,11-50,Over 5,12,Other,Primary,None,Femme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+45,13,11-50,Over 5,13,Other,Primary,None,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+45,14,11-50,Over 5,14,Other,Secondary,None,Femme,45 or older,Non,Non,Absence autorisée (permission/congé),,Oui,,7.0,14.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+45,15,11-50,Over 5,15,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,8.0,15.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+45,16,11-50,Over 5,16,Other,Primary,None,Femme,35-44,Non,Non,Absence autorisée (permission/congé),,Oui,,9.0,16.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+45,17,11-50,Over 5,17,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,10.0,17.0,Other,Homme,Oui,,,Consultation/visite de malade,Oui
+45,18,11-50,Over 5,18,Other,Primary,None,Femme,35-44,Non,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+45,19,11-50,Over 5,19,Other,Secondary,None,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+46,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Formation/séminaire/réunion,,,
+46,2,5 or less,5 or less,2,Other,Secondary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+47,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Formation/séminaire/réunion,,,
+47,2,5 or less,5 or less,2,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+47,3,5 or less,5 or less,3,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+47,4,5 or less,5 or less,4,Other,Secondary,None,Homme,25-34,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+47,5,5 or less,5 or less,5,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,5.0,5.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+48,1,11-50,5 or less,1,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+48,2,11-50,5 or less,2,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+48,3,11-50,5 or less,3,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+48,4,11-50,5 or less,4,Other,Secondary,Certificate,Femme,35-44,Oui,Non,Maladie/maternité,,Oui,,4.0,4.0,Other,Femme,Non,Maladie/maternité,,,
+48,5,11-50,5 or less,5,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,5.0,5.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+48,6,11-50,5 or less,6,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,6.0,6.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+48,7,11-50,5 or less,7,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,7.0,7.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+48,8,11-50,5 or less,8,Other,Secondary,None,Homme,35-44,Non,Non,Formation/séminaire/réunion,,Oui,,8.0,8.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+48,9,11-50,5 or less,9,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,9.0,9.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+49,1,11-50,Over 5,1,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Non,Absence non autorisée,,,
+49,2,11-50,Over 5,2,Doctor,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Formation/séminaire/réunion,,Non,,,,,,,,,,
+49,3,11-50,Over 5,3,Other,Post-Secondary,Advanced,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+49,4,11-50,Over 5,4,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,2.0,4.0,Nurse,Homme,Non,Absence non autorisée,,,
+49,5,11-50,Over 5,5,Nurse,Secondary,Diploma,Homme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,3.0,5.0,Nurse,Homme,Non,Absence non autorisée,,,
+49,6,11-50,Over 5,6,Nurse,Post-Secondary,Advanced,Femme,45 or older,Oui,Non,Maladie/maternité,,Non,,,,,,,,,,
+49,7,11-50,Over 5,7,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+49,8,11-50,Over 5,8,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+49,9,11-50,Over 5,9,Nurse,Primary,Certificate,Homme,45 or older,Non,Oui,,,Oui,Non,4.0,9.0,Nurse,Homme,Non,Absence non autorisée,,,
+49,10,11-50,Over 5,10,Nurse,Secondary,Diploma,Homme,45 or older,Non,Non,Maladie/maternité,,Non,,,,,,,,,,
+49,11,11-50,Over 5,11,Other,Secondary,Diploma,Homme,45 or older,Non,Non,Maladie/maternité,,Non,,,,,,,,,,
+49,12,11-50,Over 5,12,Other,Post-Secondary,Advanced,Homme,45 or older,Non,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+49,13,11-50,Over 5,13,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+49,14,11-50,Over 5,14,Nurse,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,5.0,14.0,Nurse,Homme,Non,Absence non autorisée,,,
+49,15,11-50,Over 5,15,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+49,16,11-50,Over 5,16,Other,Secondary,Diploma,Femme,25-34,Non,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+49,17,11-50,Over 5,17,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,6.0,17.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+49,18,11-50,Over 5,18,Other,Primary,Certificate,Femme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+49,19,11-50,Over 5,19,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,7.0,19.0,Other,Homme,Non,Absence non autorisée,,,
+49,20,11-50,Over 5,20,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,8.0,20.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+49,21,11-50,Over 5,21,Nurse,Secondary,Diploma,Homme,35-44,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+49,22,11-50,Over 5,22,Other,Primary,None,Femme,35-44,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+49,23,11-50,Over 5,23,Other,Secondary,None,Femme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+49,24,11-50,Over 5,24,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Mission officielle,,Oui,,9.0,24.0,Nurse,Homme,Non,Mission officielle,,,
+49,25,11-50,Over 5,25,Other,Primary,None,Homme,45 or older,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,10.0,25.0,Other,Homme,Non,Absence non autorisée,,,
+50,1,6-10,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Non,Absence autorisée (permission/congé),,,
+50,2,6-10,5 or less,2,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+50,3,6-10,5 or less,3,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+50,4,6-10,5 or less,4,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+50,5,6-10,5 or less,5,Other,Primary,None,Femme,25-34,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+50,6,6-10,5 or less,6,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,6.0,6.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+50,7,6-10,5 or less,7,Other,Primary,None,Homme,35-44,Non,Oui,,,Oui,Non,7.0,7.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+50,8,6-10,5 or less,8,Other,Primary,None,Femme,25-34,Non,Oui,,,Oui,Non,8.0,8.0,Other,Femme,Non,Organisation interne en journée continue,,,
+50,9,6-10,5 or less,9,Other,Primary,None,Femme,Younger than 25,Non,Oui,,,Oui,Non,9.0,9.0,Other,Femme,Non,Organisation interne en journée continue,,,
+51,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Mission officielle,,,
+51,2,5 or less,5 or less,2,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+51,3,5 or less,5 or less,3,Other,Primary,None,Femme,25-34,Non,Oui,,,Oui,Non,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+51,4,5 or less,5 or less,4,Other,Primary,None,Femme,35-44,Non,Non,Absence non autorisée,,Oui,,4.0,4.0,Other,Femme,Non,Organisation interne en journée continue,,,
+52,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Mission officielle,,,
+52,2,5 or less,5 or less,2,Other,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+52,3,5 or less,5 or less,3,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+52,4,5 or less,5 or less,4,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+53,1,6-10,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+53,2,6-10,5 or less,2,Other,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+53,3,6-10,5 or less,3,Other,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+53,4,6-10,5 or less,4,Nurse,Post-Secondary,Diploma,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,,4.0,4.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+53,5,6-10,5 or less,5,Other,Primary,Certificate,Femme,Younger than 25,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,5.0,5.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+53,6,6-10,5 or less,6,Other,Secondary,Diploma,Femme,45 or older,Non,Oui,,,Oui,Non,6.0,6.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+53,7,6-10,5 or less,7,Other,Primary,Certificate,Femme,25-34,Non,Oui,,,Oui,Non,7.0,7.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+54,1,Over 50,Over 5,1,Doctor,Post-Secondary,Advanced,Femme,45 or older,Oui,Non,Formation/séminaire/réunion,,Non,,,,,,,,,,
+54,2,Over 50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,2.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+54,3,Over 50,Over 5,3,Other,Post-Secondary,Advanced,Homme,45 or older,Non,Oui,,,Oui,Non,2.0,3.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+54,4,Over 50,Over 5,4,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+54,5,Over 50,Over 5,5,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,3.0,5.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+54,6,Over 50,Over 5,6,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+54,7,Over 50,Over 5,7,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Non,Formation/séminaire/réunion,,Non,,,,,,,,,,
+54,8,Over 50,Over 5,8,Nurse,Post-Secondary,Advanced,Femme,25-34,Non,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+54,9,Over 50,Over 5,9,Other,Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Oui,Oui,4.0,9.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+54,10,Over 50,Over 5,10,Other,Secondary,Diploma,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+54,11,Over 50,Over 5,11,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+54,12,Over 50,Over 5,12,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+54,13,Over 50,Over 5,13,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Non,Non,,,,,,,,,
+54,14,Over 50,Over 5,14,Nurse,Secondary,Diploma,Femme,45 or older,Non,Oui,,,Oui,Non,5.0,14.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+54,15,Over 50,Over 5,15,Nurse,Secondary,Diploma,Femme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+54,16,Over 50,Over 5,16,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,6.0,16.0,Other,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+54,17,Over 50,Over 5,17,Nurse,Post-Secondary,Advanced,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+54,18,Over 50,Over 5,18,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+54,19,Over 50,Over 5,19,Other,Secondary,Diploma,Homme,35-44,Non,Oui,,,Oui,Non,7.0,19.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+54,20,Over 50,Over 5,20,Nurse,Primary,Certificate,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+54,21,Over 50,Over 5,21,Nurse,Primary,Certificate,Homme,45 or older,Non,Oui,,,Oui,Non,8.0,21.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+54,22,Over 50,Over 5,22,Nurse,Primary,Certificate,Homme,45 or older,Non,Oui,,,Oui,Non,9.0,22.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+54,23,Over 50,Over 5,23,Nurse,Primary,Certificate,Homme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+54,24,Over 50,Over 5,24,Nurse,Primary,Certificate,Homme,45 or older,Non,Oui,,,Oui,Non,10.0,24.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+54,25,Over 50,Over 5,25,Nurse,Primary,Certificate,Femme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+55,1,6-10,5 or less,1,Clinical Officer,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Non,Absence non autorisée,,,
+55,2,6-10,5 or less,2,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+55,3,6-10,5 or less,3,Other,Post-Secondary,,Homme,35-44,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Non,Absence non autorisée,,,
+55,4,6-10,5 or less,4,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+55,5,6-10,5 or less,5,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,5.0,5.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+55,6,6-10,5 or less,6,Other,Secondary,None,Femme,Younger than 25,Non,Oui,,,Oui,Non,6.0,6.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+55,7,6-10,5 or less,7,Other,Secondary,None,Femme,35-44,Non,Oui,,,Oui,Non,7.0,7.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+55,8,6-10,5 or less,8,Other,Primary,None,Femme,25-34,Non,Oui,,,Oui,Non,8.0,8.0,Other,Femme,Oui,,,Autres,Non
+56,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+56,2,5 or less,5 or less,2,Other,Primary,Certificate,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+56,3,5 or less,5 or less,3,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+56,4,5 or less,5 or less,4,Other,Secondary,None,Femme,35-44,Non,Oui,,,Oui,Non,4.0,4.0,Other,Femme,Non,Absence non autorisée,,,
+58,1,5 or less,5 or less,1,Nurse,Primary,Certificate,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence non autorisée,,,
+59,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+59,2,5 or less,5 or less,2,Other,Secondary,Diploma,Femme,35-44,Oui,Non,Maladie/maternité,,Oui,,2.0,2.0,Other,Femme,Non,Maladie/maternité,,,
+59,3,5 or less,5 or less,3,Other,Secondary,Diploma,Homme,Younger than 25,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Cherche des informations/formation,Non
+60,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Mission officielle,,,
+60,2,5 or less,5 or less,2,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+60,3,5 or less,5 or less,3,Other,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+60,4,5 or less,5 or less,4,Other,Primary,None,Femme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+61,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Mission officielle,,,
+61,2,5 or less,5 or less,2,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+61,3,5 or less,5 or less,3,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+62,1,5 or less,5 or less,1,Nurse,Primary,Certificate,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+62,2,5 or less,5 or less,2,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+63,1,11-50,5 or less,1,Doctor,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+63,2,11-50,5 or less,2,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Formation/séminaire/réunion,,Oui,,1.0,2.0,Clinical Officer,Homme,Non,Formation/séminaire/réunion,,,
+63,3,11-50,5 or less,3,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,3.0,Nurse,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+63,4,11-50,5 or less,4,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Maladie/maternité,,Oui,,3.0,4.0,Nurse,Femme,Non,Maladie/maternité,,,
+63,5,11-50,5 or less,5,Nurse,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,4.0,5.0,Nurse,Femme,Non,Organisation interne en journée continue,,,
+63,6,11-50,5 or less,6,Other,Primary,None,Homme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,5.0,6.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+63,7,11-50,5 or less,7,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Oui,Oui,6.0,7.0,Nurse,Femme,Non,Organisation interne en journée continue,,,
+63,8,11-50,5 or less,8,Other,Post-Secondary,Advanced,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+63,9,11-50,5 or less,9,Other,Post-Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,7.0,9.0,Other,Homme,Non,Absence non autorisée,,,
+63,10,11-50,5 or less,10,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,8.0,10.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+63,11,11-50,5 or less,11,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,9.0,11.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+63,12,11-50,5 or less,12,Other,Primary,None,Homme,35-44,Non,Oui,,,Oui,Non,10.0,12.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+63,13,11-50,5 or less,13,Other,Primary,None,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+63,14,11-50,5 or less,14,Other,Primary,None,Femme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+63,15,11-50,5 or less,15,Other,Primary,None,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+64,1,6-10,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+64,2,6-10,5 or less,2,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+64,3,6-10,5 or less,3,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Non,Organisation interne en journée continue,,,
+64,4,6-10,5 or less,4,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+64,5,6-10,5 or less,5,Nurse,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,5.0,5.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+64,6,6-10,5 or less,6,Other,Primary,None,Femme,45 or older,Non,Oui,,,Oui,Non,6.0,6.0,Other,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+64,7,6-10,5 or less,7,Other,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,7.0,7.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+65,1,11-50,5 or less,1,Clinical Officer,Secondary,Certificate,Femme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,1.0,1.0,Clinical Officer,Femme,Non,Absence autorisée (permission/congé),,,
+65,2,11-50,5 or less,2,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,2.0,2.0,Other,Homme,Non,Formation/séminaire/réunion,,,
+65,3,11-50,5 or less,3,Other,Post-Secondary,Advanced,Homme,25-34,Non,Non,Mission officielle,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Autres,Non
+65,4,11-50,5 or less,4,Nurse,Secondary,Certificate,Femme,45 or older,Oui,Oui,,,Oui,Oui,4.0,4.0,Nurse,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+65,5,11-50,5 or less,5,Other,Secondary,Diploma,Femme,35-44,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+65,6,11-50,5 or less,6,Nurse,Primary,Certificate,Femme,35-44,Oui,Oui,,,Oui,Oui,6.0,6.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+65,7,11-50,5 or less,7,Nurse,Post-Secondary,Diploma,Femme,35-44,Oui,Non,Formation/séminaire/réunion,,Oui,Non,7.0,7.0,Nurse,Femme,Non,Formation/séminaire/réunion,,,
+65,8,11-50,5 or less,8,Other,Primary,None,Femme,45 or older,Non,Oui,,,Oui,Non,8.0,8.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+66,1,6-10,5 or less,1,Nurse,Post-Secondary,Diploma,Femme,45 or older,Non,Oui,,,Oui,Non,1.0,1.0,Nurse,Femme,Oui,,,Autres,Non
+66,2,6-10,5 or less,2,Clinical Officer,Secondary,Certificate,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+66,3,6-10,5 or less,3,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+66,4,6-10,5 or less,4,Other,Secondary,Certificate,Femme,35-44,Oui,Non,Maladie/maternité,,Oui,Non,4.0,4.0,Other,Femme,Non,Maladie/maternité,,,
+66,5,6-10,5 or less,5,Nurse,Secondary,Certificate,Femme,35-44,Non,Oui,,,Oui,Non,5.0,5.0,Nurse,Femme,Oui,,,Autres,Non
+66,6,6-10,5 or less,6,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,6.0,6.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+66,7,6-10,5 or less,7,Other,Secondary,None,Femme,35-44,Non,Non,Absence autorisée (permission/congé),,Oui,Non,7.0,7.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+66,8,6-10,5 or less,8,Other,Post-Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,8.0,8.0,Other,Femme,Oui,,,Autres,Non
+67,1,11-50,Over 5,1,Clinical Officer,Post-Secondary,Advanced,Femme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+67,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+67,3,11-50,Over 5,3,Clinical Officer,Post-Secondary,Advanced,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+67,4,11-50,Over 5,4,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,1.0,4.0,Clinical Officer,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+67,5,11-50,Over 5,5,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+67,6,11-50,Over 5,6,Nurse,Secondary,Diploma,Homme,45 or older,Non,Non,Maladie/maternité,,Non,Non,,,,,,,,,
+67,7,11-50,Over 5,7,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+67,8,11-50,Over 5,8,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+67,9,11-50,Over 5,9,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,9.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Oui
+67,10,11-50,Over 5,10,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+67,11,11-50,Over 5,11,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Non,Mission officielle,,Oui,Non,3.0,11.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+67,12,11-50,Over 5,12,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Non,Maladie/maternité,,Non,Non,,,,,,,,,
+67,13,11-50,Over 5,13,Nurse,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+67,14,11-50,Over 5,14,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Mission officielle,,Oui,Non,4.0,14.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Oui
+67,15,11-50,Over 5,15,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+67,16,11-50,Over 5,16,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+67,17,11-50,Over 5,17,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,5.0,17.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+67,18,11-50,Over 5,18,Other,Secondary,Advanced,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+67,19,11-50,Over 5,19,Other,Primary,Diploma,Femme,35-44,Non,Non,Maladie/maternité,,Oui,Non,6.0,19.0,Other,Femme,Oui,,,Consultation/visite de malade,Oui
+67,20,11-50,Over 5,20,Other,Secondary,None,Femme,25-34,Non,Non,Organisation interne en journée continue,,Oui,Non,7.0,20.0,Other,Femme,Oui,,,Consultation/visite de malade,Oui
+67,21,11-50,Over 5,21,Other,Secondary,None,Femme,25-34,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,8.0,21.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+67,22,11-50,Over 5,22,Other,Secondary,None,Homme,45 or older,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+67,23,11-50,Over 5,23,Other,Primary,None,Femme,25-34,Non,Non,Absence autorisée (permission/congé),,Oui,Non,9.0,23.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+67,24,11-50,Over 5,24,Other,Secondary,None,Femme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+67,25,11-50,Over 5,25,Other,Secondary,Diploma,Femme,45 or older,Non,Oui,,,Oui,Non,10.0,25.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+68,1,6-10,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Non,En grève,,Oui,Non,1.0,1.0,Clinical Officer,Homme,Non,En grève,,,
+68,2,6-10,5 or less,2,Nurse,Secondary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Oui
+68,3,6-10,5 or less,3,Nurse,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+68,4,6-10,5 or less,4,Nurse,Secondary,None,Femme,Younger than 25,Oui,Oui,,,Oui,Oui,4.0,4.0,Nurse,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+68,5,6-10,5 or less,5,Other,Secondary,Diploma,Homme,45 or older,Non,Non,Organisation interne en journée continue,,Oui,Non,5.0,5.0,Other,Homme,Non,Organisation interne en journée continue,,,
+71,1,11-50,Over 5,1,Doctor,Post-Secondary,,Homme,45 or older,Non,Non,Formation/séminaire/réunion,,Oui,Non,1.0,1.0,Doctor,Homme,Non,Formation/séminaire/réunion,,,
+71,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Homme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+71,3,11-50,Over 5,3,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+71,4,11-50,Over 5,4,Clinical Officer,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,4.0,Clinical Officer,Femme,Oui,,,Consultation/visite de malade,Non
+71,5,11-50,Over 5,5,Clinical Officer,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,5.0,Clinical Officer,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+71,6,11-50,Over 5,6,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+71,7,11-50,Over 5,7,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+71,8,11-50,Over 5,8,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+71,9,11-50,Over 5,9,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,4.0,9.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Oui
+71,10,11-50,Over 5,10,Nurse,Post-Secondary,Advanced,Femme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+71,11,11-50,Over 5,11,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+71,12,11-50,Over 5,12,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+71,13,11-50,Over 5,13,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+71,14,11-50,Over 5,14,Other,Primary,Certificate,Femme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,5.0,14.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+71,15,11-50,Over 5,15,Other,Primary,None,Femme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+71,16,11-50,Over 5,16,Other,Primary,None,Femme,35-44,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+71,17,11-50,Over 5,17,Other,Primary,None,Femme,35-44,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,6.0,17.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+71,18,11-50,Over 5,18,Other,Secondary,None,Femme,25-34,Non,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+71,19,11-50,Over 5,19,Other,Post-Secondary,Diploma,Homme,35-44,Non,Non,Mission officielle,,Oui,Non,7.0,19.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+71,20,11-50,Over 5,20,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,8.0,20.0,Other,Homme,Oui,,,Consultation/visite de malade,Oui
+71,21,11-50,Over 5,21,Other,Post-Secondary,None,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+71,22,11-50,Over 5,22,Other,Secondary,None,Femme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+71,23,11-50,Over 5,23,Other,Post-Secondary,Diploma,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+71,24,11-50,Over 5,24,Other,Post-Secondary,Diploma,Homme,25-34,Non,Oui,,,Oui,Non,9.0,24.0,Other,Homme,Oui,,,Consultation/visite de malade,Oui
+71,25,11-50,Over 5,25,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,10.0,25.0,Other,Homme,Non,Maladie/maternité,,,
+73,1,11-50,Over 5,1,Doctor,Post-Secondary,,Homme,45 or older,Oui,Non,Autres (à préciser),,Oui,Non,1.0,1.0,Doctor,Homme,Non,Autres (à préciser),,,
+73,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+73,3,11-50,Over 5,3,Clinical Officer,Post-Secondary,Advanced,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,3.0,Clinical Officer,Femme,Non,Absence autorisée (permission/congé),,,
+73,4,11-50,Over 5,4,Other,Post-Secondary,Advanced,Femme,Younger than 25,Non,Oui,,,Oui,Non,3.0,4.0,Other,Femme,Oui,,,Laboratoires/examens/radios,Non
+73,5,11-50,Over 5,5,Nurse,Post-Secondary,Advanced,Femme,25-34,Non,Non,Absence autorisée (permission/congé),,Oui,Non,4.0,5.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+73,6,11-50,Over 5,6,Other,Secondary,Diploma,Femme,35-44,Non,Oui,,,Oui,Non,5.0,6.0,Other,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+73,7,11-50,Over 5,7,Other,Secondary,Diploma,Femme,25-34,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,6.0,7.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+73,8,11-50,Over 5,8,Clinical Officer,Post-Secondary,Advanced,Femme,45 or older,Oui,Oui,,,Oui,Oui,7.0,8.0,Clinical Officer,Femme,Oui,,,Consultation/visite de malade,Non
+73,9,11-50,Over 5,9,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,8.0,9.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+73,10,11-50,Over 5,10,Other,Secondary,Diploma,Femme,25-34,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+73,11,11-50,Over 5,11,Doctor,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Autres (à préciser),,Non,Non,,,,,,,,,
+73,12,11-50,Over 5,12,Nurse,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,9.0,12.0,Nurse,Homme,,,,Consultation/visite de malade,Non
+73,13,11-50,Over 5,13,Other,Primary,Certificate,Femme,35-44,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+73,14,11-50,Over 5,14,Other,Post-Secondary,,Homme,35-44,Non,Non,Absence autorisée (permission/congé),,Oui,Non,10.0,14.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+73,15,11-50,Over 5,15,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+74,1,11-50,Over 5,1,Doctor,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Doctor,Homme,Oui,,,Consultation/visite de malade,Non
+74,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,Certificate,Femme,45 or older,Oui,Non,Mission officielle,,Non,,,,,,,,,,
+74,3,11-50,Over 5,3,Clinical Officer,Post-Secondary,Certificate,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+74,4,11-50,Over 5,4,Clinical Officer,Post-Secondary,Certificate,Homme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+74,5,11-50,Over 5,5,Nurse,Secondary,Diploma,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+74,6,11-50,Over 5,6,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+74,7,11-50,Over 5,7,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,2.0,7.0,Nurse,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+74,8,11-50,Over 5,8,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,3.0,8.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+74,9,11-50,Over 5,9,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+74,10,11-50,Over 5,10,Nurse,Post-Secondary,Certificate,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+74,11,11-50,Over 5,11,Nurse,Post-Secondary,Certificate,Femme,25-34,Oui,Non,Formation/séminaire/réunion,,Non,Non,,,,,,,,,
+74,12,11-50,Over 5,12,Nurse,Post-Secondary,Certificate,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,4.0,12.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+74,13,11-50,Over 5,13,Nurse,Post-Secondary,Certificate,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,5.0,13.0,Nurse,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+74,14,11-50,Over 5,14,Nurse,Secondary,Certificate,Femme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+74,15,11-50,Over 5,15,Other,Secondary,Diploma,Femme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Oui,,6.0,15.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+74,16,11-50,Over 5,16,Other,Secondary,Diploma,Femme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+74,17,11-50,Over 5,17,Other,Secondary,Diploma,Femme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,7.0,17.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+74,18,11-50,Over 5,18,Other,Secondary,Diploma,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+74,19,11-50,Over 5,19,Other,Secondary,None,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+74,20,11-50,Over 5,20,Other,Secondary,None,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,8.0,20.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+74,21,11-50,Over 5,21,Nurse,Secondary,None,Homme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+74,22,11-50,Over 5,22,Nurse,Secondary,None,Homme,45 or older,Non,Oui,,,Oui,Non,9.0,22.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+74,23,11-50,Over 5,23,Nurse,Secondary,None,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+74,24,11-50,Over 5,24,Nurse,Secondary,None,Homme,35-44,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+74,25,11-50,Over 5,25,Other,Primary,None,Femme,25-34,Non,Oui,,,Oui,Non,10.0,25.0,Other,Femme,Oui,,,Autres,Non
+75,1,11-50,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Oui,,,Autres,Non
+75,2,11-50,5 or less,2,Nurse,Secondary,Diploma,Femme,45 or older,Non,Non,Maladie/maternité,,Oui,Non,2.0,2.0,Nurse,Femme,Non,Maladie/maternité,,,
+75,3,11-50,5 or less,3,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Oui
+75,4,11-50,5 or less,4,Nurse,Secondary,Diploma,Femme,35-44,Non,Oui,,,Oui,Non,4.0,4.0,Nurse,Femme,Oui,,,Autres,Oui
+75,5,11-50,5 or less,5,Other,Post-Secondary,Advanced,Homme,45 or older,Non,Oui,,,Oui,Non,5.0,5.0,Other,Homme,Non,Absence non autorisée,,,
+75,6,11-50,5 or less,6,Other,Post-Secondary,,Homme,25-34,Non,Oui,,,Oui,Non,6.0,6.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+75,7,11-50,5 or less,7,Other,Post-Secondary,Advanced,Homme,45 or older,Non,Oui,,,Oui,Non,7.0,7.0,Other,Homme,Non,Absence non autorisée,,,
+75,8,11-50,5 or less,8,Other,Post-Secondary,,Femme,25-34,Non,Oui,,,Oui,Non,8.0,8.0,Other,Femme,Non,Absence non autorisée,,,
+75,9,11-50,5 or less,9,Other,Secondary,,Homme,35-44,Non,Oui,,,Oui,Non,9.0,9.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Oui
+75,10,11-50,5 or less,10,Other,Primary,,Homme,35-44,Non,Oui,,,Oui,Non,10.0,10.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Oui
+78,1,11-50,Over 5,1,Nurse,Post-Secondary,Advanced,Femme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+78,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Femme,45 or older,Oui,Non,Organisation interne en journée continue,,Oui,Non,,2.0,Clinical Officer,Femme,Non,Absence autorisée (permission/congé),,,
+78,3,11-50,Over 5,3,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,2.0,3.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+78,4,11-50,Over 5,4,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+78,5,11-50,Over 5,5,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+78,6,11-50,Over 5,6,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Non,Non,,,,,,,,,
+78,7,11-50,Over 5,7,Other,Post-Secondary,Advanced,Homme,45 or older,Oui,Oui,,,Non,Non,,,,,,,,,
+78,8,11-50,Over 5,8,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+78,9,11-50,Over 5,9,Nurse,Secondary,Diploma,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,3.0,9.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+78,10,11-50,Over 5,10,Other,Secondary,None,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+78,11,11-50,Over 5,11,Other,Primary,None,Homme,45 or older,Non,Non,Organisation interne en journée continue,,Oui,Non,4.0,11.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+78,12,11-50,Over 5,12,Other,Primary,None,Femme,25-34,Non,Non,Organisation interne en journée continue,,Oui,Non,5.0,12.0,Other,Femme,Oui,,,Autres,Oui
+78,13,11-50,Over 5,13,Other,Secondary,None,Femme,35-44,Non,Oui,,,Oui,Non,6.0,13.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+78,14,11-50,Over 5,14,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+78,15,11-50,Over 5,15,Nurse,Secondary,None,Femme,25-34,Non,Non,Organisation interne en journée continue,,Non,Non,,,,,,,,,
+78,16,11-50,Over 5,16,Nurse,Secondary,None,Femme,35-44,Non,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+78,17,11-50,Over 5,17,Nurse,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,7.0,17.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+78,18,11-50,Over 5,18,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Non,Non,,,,,,,,,
+78,19,11-50,Over 5,19,Other,Primary,None,Femme,25-34,Non,Non,Absence autorisée (permission/congé),,Oui,Non,8.0,19.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+78,20,11-50,Over 5,20,Other,Secondary,Diploma,Femme,35-44,Non,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+78,21,11-50,Over 5,21,Nurse,Secondary,None,Femme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+78,22,11-50,Over 5,22,Other,Primary,None,Femme,35-44,Non,Oui,,,Oui,Non,9.0,22.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Oui
+78,23,11-50,Over 5,23,Nurse,Secondary,None,Femme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+78,24,11-50,Over 5,24,Other,Secondary,Diploma,Femme,25-34,Non,Non,Organisation interne en journée continue,,Oui,Non,10.0,24.0,Other,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Oui
+78,25,11-50,Over 5,25,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+80,1,11-50,Over 5,1,Nurse,Post-Secondary,Diploma,Femme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+80,2,11-50,Over 5,2,Doctor,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,1.0,2.0,Doctor,Homme,Non,Absence autorisée (permission/congé),,,
+80,3,11-50,Over 5,3,Nurse,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,3.0,Nurse,Femme,Oui,,,Autres,Non
+80,4,11-50,Over 5,4,Other,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,3.0,4.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+80,5,11-50,Over 5,5,Other,Secondary,Diploma,Femme,35-44,Non,Non,Absence autorisée (permission/congé),,Oui,Non,4.0,5.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+80,6,11-50,Over 5,6,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,5.0,6.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+80,7,11-50,Over 5,7,Nurse,Primary,Certificate,Femme,25-34,Oui,Oui,,,Oui,Oui,6.0,7.0,Nurse,Femme,Oui,,,Autres,Non
+80,8,11-50,Over 5,8,Nurse,Primary,Certificate,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+80,9,11-50,Over 5,9,Nurse,Primary,Certificate,Femme,25-34,Oui,Oui,,,Oui,Oui,7.0,9.0,Nurse,Femme,Oui,,,Autres,Non
+80,10,11-50,Over 5,10,Nurse,Primary,Certificate,Femme,25-34,Oui,Oui,,,Oui,Oui,8.0,10.0,Nurse,Femme,Oui,,,Autres,Non
+80,11,11-50,Over 5,11,Nurse,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,9.0,11.0,Nurse,Femme,Oui,,,Autres,Non
+80,12,11-50,Over 5,12,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,10.0,12.0,Other,Homme,Oui,,,Autres,Non
+80,13,11-50,Over 5,13,Other,Secondary,None,Femme,45 or older,Non,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+80,14,11-50,Over 5,14,Nurse,Primary,Certificate,Femme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+80,15,11-50,Over 5,15,Other,Secondary,None,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+81,1,11-50,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+81,2,11-50,5 or less,2,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+81,3,11-50,5 or less,3,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,,3.0,3.0,Clinical Officer,Homme,Non,Absence autorisée (permission/congé),,,
+81,4,11-50,5 or less,4,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Oui,Oui,4.0,4.0,Nurse,Femme,Non,Mission officielle,,,
+81,5,11-50,5 or less,5,Nurse,Secondary,Diploma,Homme,25-34,Non,Oui,,,Oui,Non,5.0,5.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+81,6,11-50,5 or less,6,Nurse,Secondary,Diploma,Homme,Younger than 25,Non,Oui,,,Oui,Non,6.0,6.0,Nurse,Homme,Oui,,,Cherche des informations/formation,Non
+81,7,11-50,5 or less,7,Nurse,Secondary,Diploma,Homme,Younger than 25,Non,Oui,,,Oui,Non,7.0,7.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+81,8,11-50,5 or less,8,Nurse,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,8.0,8.0,Nurse,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+82,1,11-50,Over 5,1,Doctor,Post-Secondary,Advanced,Homme,45 or older,Non,Non,Organisation interne en journée continue,,Oui,,1.0,1.0,Doctor,Homme,Non,Organisation interne en journée continue,,,
+82,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+82,3,11-50,Over 5,3,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+82,4,11-50,Over 5,4,Clinical Officer,Post-Secondary,Advanced,Homme,45 or older,Non,Non,Est allé retirer son salaire,,Non,,,,,,,,,,
+82,5,11-50,Over 5,5,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+82,6,11-50,Over 5,6,Clinical Officer,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,6.0,Clinical Officer,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+82,7,11-50,Over 5,7,Nurse,Secondary,None,Femme,35-44,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,3.0,7.0,Nurse,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+82,8,11-50,Over 5,8,Nurse,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,4.0,8.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+82,9,11-50,Over 5,9,Nurse,Secondary,None,Homme,35-44,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+82,10,11-50,Over 5,10,Nurse,Secondary,None,Femme,25-34,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+82,11,11-50,Over 5,11,Nurse,Secondary,None,Femme,25-34,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+82,12,11-50,Over 5,12,Nurse,Post-Secondary,Advanced,Homme,35-44,Non,Non,Organisation interne en journée continue,,Non,,,,,,,,,,
+82,13,11-50,Over 5,13,Nurse,Secondary,None,Femme,35-44,Non,Oui,,,Oui,Non,5.0,13.0,Nurse,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+82,14,11-50,Over 5,14,Other,Post-Secondary,Advanced,Homme,35-44,Non,Non,Organisation interne en journée continue,,Oui,,6.0,14.0,Other,Homme,Non,Organisation interne en journée continue,,,
+82,15,11-50,Over 5,15,Nurse,Secondary,Diploma,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+82,16,11-50,Over 5,16,Nurse,Secondary,Diploma,Femme,35-44,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+82,17,11-50,Over 5,17,Nurse,Post-Secondary,Advanced,Femme,45 or older,Oui,Oui,,,Oui,Oui,7.0,17.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+82,18,11-50,Over 5,18,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+82,19,11-50,Over 5,19,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,8.0,19.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+82,20,11-50,Over 5,20,Other,Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,9.0,20.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+82,21,11-50,Over 5,21,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+82,22,11-50,Over 5,22,Nurse,Secondary,None,Femme,25-34,Non,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+82,23,11-50,Over 5,23,Other,Post-Secondary,Advanced,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+82,24,11-50,Over 5,24,Nurse,Secondary,None,Femme,35-44,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+82,25,11-50,Over 5,25,Other,Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,10.0,25.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+83,1,6-10,5 or less,1,Nurse,Secondary,Diploma,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,,1.0,1.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+83,2,6-10,5 or less,2,Nurse,Post-Secondary,Advanced,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+83,3,6-10,5 or less,3,Clinical Officer,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,,3.0,3.0,Clinical Officer,Femme,Non,Absence autorisée (permission/congé),,,
+83,4,6-10,5 or less,4,Other,Secondary,Diploma,Femme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+83,5,6-10,5 or less,5,Other,Secondary,Diploma,Homme,25-34,Non,Oui,,,Oui,Non,5.0,5.0,Other,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+83,6,6-10,5 or less,6,Other,Post-Secondary,Advanced,Homme,25-34,Non,Non,Absence autorisée (permission/congé),,Oui,,6.0,6.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+84,1,11-50,Over 5,1,Doctor,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Doctor,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+84,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Femme,45 or older,Oui,Oui,,,Non,Non,,,,,,,,,
+84,3,11-50,Over 5,3,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Non,Non,,,,,,,,,
+84,4,11-50,Over 5,4,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+84,5,11-50,Over 5,5,Clinical Officer,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,5.0,Clinical Officer,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+84,6,11-50,Over 5,6,Clinical Officer,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,3.0,6.0,Clinical Officer,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+84,7,11-50,Over 5,7,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Non,Absence non autorisée,,Non,Non,,,,,,,,,
+84,8,11-50,Over 5,8,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Non,4.0,8.0,Nurse,Homme,Non,Autres (à préciser),IL EST ALLE MANGER,,
+84,9,11-50,Over 5,9,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Non,Non,,,,,,,,,
+84,10,11-50,Over 5,10,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,5.0,10.0,Nurse,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+84,11,11-50,Over 5,11,Nurse,Primary,Certificate,Homme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,6.0,11.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+84,12,11-50,Over 5,12,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+84,13,11-50,Over 5,13,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+84,14,11-50,Over 5,14,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+84,15,11-50,Over 5,15,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+84,16,11-50,Over 5,16,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,7.0,16.0,Nurse,Femme,Non,Absence non autorisée,,,
+84,17,11-50,Over 5,17,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+84,18,11-50,Over 5,18,Other,Primary,Certificate,Femme,45 or older,Oui,Non,Maladie/maternité,,Non,Non,,,,,,,,,
+84,19,11-50,Over 5,19,Other,Primary,Certificate,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,8.0,19.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+84,20,11-50,Over 5,20,Other,Primary,Certificate,Femme,25-34,Oui,Non,Formation/séminaire/réunion,,Oui,Non,9.0,20.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+84,21,11-50,Over 5,21,Other,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Non,Non,,,,,,,,,
+84,22,11-50,Over 5,22,Other,Post-Secondary,,Homme,25-34,Non,Non,Absence autorisée (permission/congé),,Oui,Non,10.0,22.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+84,23,11-50,Over 5,23,Other,Post-Secondary,,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+84,24,11-50,Over 5,24,Other,Secondary,None,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+84,25,11-50,Over 5,25,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+85,1,11-50,Over 5,1,Clinical Officer,Post-Secondary,Advanced,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+85,2,11-50,Over 5,2,Other,Post-Secondary,None,Homme,45 or older,Oui,Oui,,,Oui,Non,2.0,2.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+85,3,11-50,Over 5,3,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,3.0,3.0,Clinical Officer,Homme,Non,Autres (à préciser),RETARD,,
+85,4,11-50,Over 5,4,Other,Post-Secondary,,Homme,35-44,Oui,Oui,,,Oui,Oui,4.0,4.0,Doctor,Homme,Non,Autres (à préciser),RETARD,,
+85,5,11-50,Over 5,5,Other,Secondary,None,Femme,Younger than 25,Oui,Oui,,,Oui,Oui,5.0,5.0,Other,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+85,6,11-50,Over 5,6,Other,Post-Secondary,Advanced,Homme,35-44,Non,Non,Absence autorisée (permission/congé),,Oui,Non,6.0,6.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+85,7,11-50,Over 5,7,Other,Post-Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,7.0,7.0,Other,Homme,Non,Autres (à préciser),RETARD,,
+86,1,6-10,5 or less,1,Clinical Officer,Secondary,Advanced,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Oui
+86,2,6-10,5 or less,2,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+86,3,6-10,5 or less,3,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Oui,Oui,3.0,3.0,Nurse,Femme,Non,Maladie/maternité,,,
+86,4,6-10,5 or less,4,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Non,Organisation interne en journée continue,,,
+86,5,6-10,5 or less,5,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,5.0,5.0,Other,Homme,Non,Absence non autorisée,,,
+87,1,6-10,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+87,2,6-10,5 or less,2,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+87,3,6-10,5 or less,3,Other,Primary,None,Femme,35-44,Oui,Non,Absence autorisée (permission/congé),,Oui,,3.0,3.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+87,4,6-10,5 or less,4,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+87,5,6-10,5 or less,5,Nurse,Secondary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,5.0,5.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+87,6,6-10,5 or less,6,Other,,,Femme,45 or older,Non,Non,Organisation interne en journée continue,,Oui,,6.0,6.0,Other,Femme,Non,Organisation interne en journée continue,,,
+88,1,5 or less,5 or less,1,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+88,2,5 or less,5 or less,2,Nurse,Secondary,Diploma,Homme,35-44,Oui,Non,Formation/séminaire/réunion,,Oui,Non,2.0,2.0,Nurse,Homme,Non,Formation/séminaire/réunion,,,
+88,3,5 or less,5 or less,3,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+88,4,5 or less,5 or less,4,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Other,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+89,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+89,2,5 or less,5 or less,2,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+90,1,11-50,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Femme,35-44,Oui,Non,Formation/séminaire/réunion,,Non,,,,,,,,,,
+90,2,11-50,5 or less,2,Nurse,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Oui,1.0,2.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+90,3,11-50,5 or less,3,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,3.0,Nurse,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+90,4,11-50,5 or less,4,Nurse,Primary,Certificate,Femme,35-44,Oui,Oui,,,Oui,Non,3.0,4.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+90,5,11-50,5 or less,5,Nurse,Primary,Certificate,Homme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,4.0,5.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+90,6,11-50,5 or less,6,Nurse,Secondary,Diploma,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+90,7,11-50,5 or less,7,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Oui,Oui,5.0,7.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+90,8,11-50,5 or less,8,Other,Primary,Certificate,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+90,9,11-50,5 or less,9,Other,Primary,Certificate,Femme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,6.0,9.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+90,10,11-50,5 or less,10,Other,Secondary,Diploma,Femme,35-44,Oui,Non,Formation/séminaire/réunion,,Non,,,,,,,,,,
+90,11,11-50,5 or less,11,Other,Primary,Certificate,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,,7.0,11.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+90,12,11-50,5 or less,12,Other,Primary,Certificate,Femme,45 or older,Non,Oui,,,Oui,Non,8.0,12.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+90,13,11-50,5 or less,13,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,9.0,13.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+90,14,11-50,5 or less,14,Other,Secondary,Diploma,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+90,15,11-50,5 or less,15,Other,Secondary,Diploma,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+90,16,11-50,5 or less,16,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+90,17,11-50,5 or less,17,Other,Post-Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,10.0,17.0,Other,Homme,Non,Autres (à préciser),,,
+91,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Mission officielle,,Oui,Non,1.0,1.0,Nurse,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+91,2,5 or less,5 or less,2,Other,Primary,Certificate,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+92,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+92,2,5 or less,5 or less,2,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+92,3,5 or less,5 or less,3,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Non,Absence non autorisée,,,
+93,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+93,2,5 or less,5 or less,2,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+93,3,5 or less,5 or less,3,Other,Secondary,None,Homme,45 or older,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+94,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Autres (à préciser),AUCUN PERSONNLE SOIGNANT N'EST PRESENT DANS LE CE,,
+94,2,5 or less,5 or less,2,Other,Secondary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Non,Autres (à préciser),AUCUN PERSONNEL SOIGNANT N'EST PRESENT DANS LE CE,,
+95,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Oui
+95,2,5 or less,5 or less,2,Other,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Oui
+95,3,5 or less,5 or less,3,Other,Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Autres,Oui
+96,1,6-10,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+96,2,6-10,5 or less,2,Nurse,Secondary,None,Homme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+96,3,6-10,5 or less,3,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Non,Formation/séminaire/réunion,,Oui,Non,3.0,3.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+96,4,6-10,5 or less,4,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+96,5,6-10,5 or less,5,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,5.0,5.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+96,6,6-10,5 or less,6,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,6.0,6.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+97,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence non autorisée,,,
+97,2,5 or less,5 or less,2,Other,Secondary,Diploma,Femme,Younger than 25,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Autres,Non
+97,3,5 or less,5 or less,3,Other,Post-Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Autres,Oui
+98,1,6-10,5 or less,1,Nurse,Post-Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+98,2,6-10,5 or less,2,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+98,3,6-10,5 or less,3,Other,Primary,Certificate,Femme,35-44,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Oui
+98,4,6-10,5 or less,4,Other,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Oui,,,Consultation/visite de malade,Oui
+98,5,6-10,5 or less,5,Other,Secondary,None,Femme,35-44,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Autres,Oui
+99,1,5 or less,5 or less,1,Nurse,Secondary,None,Homme,25-34,Oui,Non,Formation/séminaire/réunion,,Oui,Non,1.0,1.0,Nurse,Homme,Non,Formation/séminaire/réunion,,,
+99,2,5 or less,5 or less,2,Other,Secondary,None,Femme,35-44,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,2.0,2.0,Other,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+99,3,5 or less,5 or less,3,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+99,4,5 or less,5 or less,4,Other,Primary,None,Homme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+100,1,6-10,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+100,2,6-10,5 or less,2,Other,Secondary,Certificate,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+100,3,6-10,5 or less,3,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+100,4,6-10,5 or less,4,Other,Secondary,Diploma,Homme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+100,5,6-10,5 or less,5,Other,Secondary,Diploma,Femme,25-34,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+101,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Formation/séminaire/réunion,,Oui,Non,1.0,1.0,Nurse,Homme,Non,Formation/séminaire/réunion,,,
+101,2,5 or less,5 or less,2,Nurse,Secondary,None,Homme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Non,Formation/séminaire/réunion,,,
+101,3,5 or less,5 or less,3,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+101,4,5 or less,5 or less,4,Other,Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+102,1,5 or less,5 or less,1,Nurse,Post-Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Mission officielle,,,
+102,2,5 or less,5 or less,2,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Non,Organisation interne en journée continue,,,
+102,3,5 or less,5 or less,3,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,3.0,3.0,Other,Femme,Oui,,,Autres,Non
+103,1,5 or less,5 or less,1,Other,Primary,Certificate,Femme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Other,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+104,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Formation/séminaire/réunion,,,
+104,2,5 or less,5 or less,2,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Non,Absence non autorisée,,,
+104,3,5 or less,5 or less,3,Other,Primary,None,Homme,45 or older,Non,Non,Absence autorisée (permission/congé),,Oui,,3.0,3.0,Other,Homme,Non,Absence non autorisée,,,
+105,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Mission officielle,,,
+105,2,5 or less,5 or less,2,Nurse,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Femme,Non,Mission officielle,,,
+105,3,5 or less,5 or less,3,Other,Secondary,None,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,3.0,3.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+105,4,5 or less,5 or less,4,Nurse,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,4.0,4.0,Nurse,Femme,Oui,,,Autres,Non
+106,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Formation/séminaire/réunion,,,
+106,2,5 or less,5 or less,2,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+106,3,5 or less,5 or less,3,Other,Post-Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+107,1,5 or less,5 or less,1,Nurse,Post-Secondary,None,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+107,2,5 or less,5 or less,2,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+107,3,5 or less,5 or less,3,Other,Secondary,None,Femme,25-34,Non,Non,Maladie/maternité,,Oui,Non,3.0,3.0,Other,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+108,1,11-50,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Non,Absence non autorisée,,,
+108,2,11-50,5 or less,2,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Formation/séminaire/réunion,,Oui,,2.0,2.0,Nurse,Femme,Non,Formation/séminaire/réunion,,,
+108,3,11-50,5 or less,3,Nurse,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+108,4,11-50,5 or less,4,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+108,5,11-50,5 or less,5,Nurse,Primary,None,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,5.0,5.0,Nurse,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+108,6,11-50,5 or less,6,Other,Primary,None,Homme,35-44,Non,Oui,,,Oui,Non,6.0,6.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+108,7,11-50,5 or less,7,Other,Primary,None,Femme,45 or older,Non,Oui,,,Oui,Non,7.0,7.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+108,8,11-50,5 or less,8,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,8.0,8.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+108,9,11-50,5 or less,9,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,9.0,9.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+108,10,11-50,5 or less,10,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,10.0,10.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+108,11,11-50,5 or less,11,Other,Primary,None,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+109,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+109,2,5 or less,5 or less,2,Other,Secondary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+110,1,5 or less,5 or less,1,Nurse,Primary,Certificate,Homme,45 or older,Oui,Non,Absence non autorisée,,Oui,,1.0,1.0,Nurse,Homme,Non,Absence non autorisée,,,
+110,2,5 or less,5 or less,2,Nurse,Post-Secondary,Diploma,Homme,25-34,Oui,Non,Formation/séminaire/réunion,,Oui,,2.0,2.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+110,3,5 or less,5 or less,3,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+111,1,11-50,Over 5,1,Doctor,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+111,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Homme,45 or older,Oui,Non,Mission officielle,,Non,,,,,,,,,,
+111,3,11-50,Over 5,3,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,3.0,Nurse,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+111,4,11-50,Over 5,4,Nurse,Post-Secondary,Advanced,Homme,45 or older,Non,Oui,,,Oui,Non,2.0,4.0,Nurse,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+111,5,11-50,Over 5,5,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,3.0,5.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+111,6,11-50,Over 5,6,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+111,7,11-50,Over 5,7,Other,Primary,None,Femme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+111,8,11-50,Over 5,8,Other,Primary,None,Femme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+111,9,11-50,Over 5,9,Other,Secondary,Diploma,Femme,Younger than 25,Oui,Oui,,,Oui,Oui,4.0,9.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+111,10,11-50,Over 5,10,Other,Secondary,Diploma,Femme,35-44,Oui,Non,Maladie/maternité,,Oui,,5.0,10.0,Other,Femme,Non,Maladie/maternité,,,
+111,11,11-50,Over 5,11,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+111,12,11-50,Over 5,12,Other,Secondary,None,Femme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+111,13,11-50,Over 5,13,Other,Primary,None,Homme,25-34,Oui,Non,Mission officielle,,Non,,,,,,,,,,
+111,14,11-50,Over 5,14,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,6.0,14.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+111,15,11-50,Over 5,15,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+111,16,11-50,Over 5,16,Other,Post-Secondary,Advanced,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+111,17,11-50,Over 5,17,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+111,18,11-50,Over 5,18,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,7.0,18.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+111,19,11-50,Over 5,19,Other,Primary,None,Femme,45 or older,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+111,20,11-50,Over 5,20,Other,Post-Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,8.0,20.0,Other,Homme,Oui,,,Autres,Non
+111,21,11-50,Over 5,21,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,9.0,21.0,Other,Femme,Oui,,,Autres,Oui
+111,22,11-50,Over 5,22,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+111,23,11-50,Over 5,23,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+111,24,11-50,Over 5,24,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,10.0,24.0,Other,Homme,Non,Formation/séminaire/réunion,,,
+111,25,11-50,Over 5,25,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+112,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Formation/séminaire/réunion,,Oui,,1.0,1.0,Nurse,Homme,Non,Formation/séminaire/réunion,,,
+112,2,5 or less,5 or less,2,Other,Primary,None,Femme,35-44,Oui,Non,Formation/séminaire/réunion,,Oui,,2.0,2.0,Other,Femme,Non,Formation/séminaire/réunion,,,
+112,3,5 or less,5 or less,3,Other,Secondary,None,Femme,Younger than 25,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+113,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+113,2,5 or less,5 or less,2,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+113,3,5 or less,5 or less,3,Other,Secondary,None,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,,3.0,3.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+113,4,5 or less,5 or less,4,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+114,1,11-50,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Oui,Oui,,1.0,Clinical Officer,Femme,Non,En stage,,,
+114,2,11-50,5 or less,2,Nurse,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+114,3,11-50,5 or less,3,Other,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+114,4,11-50,5 or less,4,Nurse,Secondary,Certificate,Homme,45 or older,Oui,Oui,,,Oui,Oui,4.0,4.0,Nurse,Homme,Non,Est allé retirer son salaire,,,
+114,5,11-50,5 or less,5,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,5.0,5.0,Other,Femme,Non,Formation/séminaire/réunion,,,
+114,6,11-50,5 or less,6,Other,Secondary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,6.0,6.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+114,7,11-50,5 or less,7,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,7.0,7.0,Other,Homme,Oui,,,Autres,Non
+114,8,11-50,5 or less,8,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,8.0,8.0,Other,Homme,Non,Absence non autorisée,,,
+114,9,11-50,5 or less,9,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,9.0,9.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+115,1,5 or less,5 or less,1,Other,Secondary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Other,Femme,Non,Formation/séminaire/réunion,,,
+115,2,5 or less,5 or less,2,Other,Primary,None,Femme,35-44,Non,Oui,,,Oui,Non,2.0,2.0,Other,Femme,Oui,,,Autres,Non
+116,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,,1.0,Nurse,Homme,Oui,,,Autres,Oui
+116,2,5 or less,5 or less,2,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Non,Formation/séminaire/réunion,,,
+116,3,5 or less,5 or less,3,Other,Primary,None,Femme,35-44,Non,Oui,,,Oui,Non,3.0,3.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+117,1,6-10,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,,1.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+117,2,6-10,5 or less,2,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+117,3,6-10,5 or less,3,Other,Secondary,Diploma,Femme,25-34,Oui,Non,Maladie/maternité,,Oui,,3.0,3.0,Other,Femme,Non,Maladie/maternité,,,
+117,4,6-10,5 or less,4,Other,Primary,Certificate,Femme,25-34,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+118,1,Over 50,Over 5,1,Doctor,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Formation/séminaire/réunion,,Oui,,,1.0,Doctor,Homme,Non,Mission officielle,,,
+118,2,Over 50,Over 5,2,Clinical Officer,Post-Secondary,Certificate,Homme,45 or older,Oui,Non,Formation/séminaire/réunion,,Non,,,,,,,,,,
+118,3,Over 50,Over 5,3,Clinical Officer,Post-Secondary,Certificate,Femme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+118,4,Over 50,Over 5,4,Clinical Officer,Post-Secondary,Certificate,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+118,5,Over 50,Over 5,5,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+118,6,Over 50,Over 5,6,Nurse,Post-Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Oui,Non,2.0,6.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+118,7,Over 50,Over 5,7,Nurse,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Oui,Oui,3.0,7.0,Nurse,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+118,8,Over 50,Over 5,8,Nurse,Secondary,Certificate,Homme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,4.0,8.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+118,9,Over 50,Over 5,9,Nurse,Primary,Certificate,Homme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+118,10,Over 50,Over 5,10,Nurse,Primary,Certificate,Femme,45 or older,Non,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+118,11,Over 50,Over 5,11,Nurse,Post-Secondary,Diploma,Homme,45 or older,Oui,Non,Mission officielle,,Non,,,,,,,,,,
+118,12,Over 50,Over 5,12,Nurse,Post-Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Non,5.0,12.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+118,13,Over 50,Over 5,13,Nurse,Secondary,Diploma,Homme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,,6.0,13.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+118,14,Over 50,Over 5,14,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+118,15,Over 50,Over 5,15,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+118,16,Over 50,Over 5,16,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+118,17,Over 50,Over 5,17,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Non,Maladie/maternité,,Oui,,7.0,17.0,Nurse,Femme,Non,Maladie/maternité,,,Non
+118,18,Over 50,Over 5,18,Other,Secondary,Diploma,Femme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+118,19,Over 50,Over 5,19,Other,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Oui,Non,8.0,19.0,Other,Femme,Non,Maladie/maternité,,,
+118,20,Over 50,Over 5,20,Other,Secondary,Diploma,Femme,35-44,Oui,Non,Absence autorisée (permission/congé),,Oui,,9.0,20.0,Other,Femme,Non,Mission officielle,,,
+118,21,Over 50,Over 5,21,Other,Post-Secondary,Advanced,Homme,25-34,Non,Non,En stage,,Non,,,,,,,,,,
+118,22,Over 50,Over 5,22,Other,Secondary,Diploma,Homme,45 or older,Non,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+118,23,Over 50,Over 5,23,Other,Secondary,Diploma,Femme,25-34,Oui,Non,Maladie/maternité,,Non,,,,,,,,,,
+118,24,Over 50,Over 5,24,Other,Secondary,Diploma,Femme,35-44,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+118,25,Over 50,Over 5,25,Other,Secondary,Certificate,Homme,35-44,Non,Oui,,,Oui,Non,10.0,25.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+119,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+119,2,5 or less,5 or less,2,Other,Secondary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+120,1,6-10,5 or less,1,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,1.0,1.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+120,2,6-10,5 or less,2,Other,Secondary,Diploma,Homme,35-44,Non,Non,Organisation interne en journée continue,,Oui,Non,2.0,2.0,Other,Homme,Non,Organisation interne en journée continue,,,
+120,3,6-10,5 or less,3,Other,Secondary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+120,4,6-10,5 or less,4,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+120,5,6-10,5 or less,5,Other,Primary,None,Femme,45 or older,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+121,1,5 or less,5 or less,1,Other,Primary,Certificate,Femme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+121,2,5 or less,5 or less,2,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Non,Absence non autorisée,,,
+122,1,11-50,Over 5,1,Doctor,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Formation/séminaire/réunion,,Non,Non,,,,,,,,,
+122,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Homme,45 or older,Non,Oui,,,Oui,Non,1.0,2.0,Clinical Officer,Homme,Non,Formation/séminaire/réunion,,,
+122,3,11-50,Over 5,3,Clinical Officer,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,3.0,Clinical Officer,Femme,Oui,,,Consultation/visite de malade,Non
+122,4,11-50,Over 5,4,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Non,Formation/séminaire/réunion,,Oui,Non,3.0,4.0,Nurse,Femme,Non,Formation/séminaire/réunion,,,
+122,5,11-50,Over 5,5,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+122,6,11-50,Over 5,6,Other,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+122,7,11-50,Over 5,7,Other,Secondary,Certificate,Femme,45 or older,Oui,Oui,,,Oui,Oui,4.0,7.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+122,8,11-50,Over 5,8,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+122,9,11-50,Over 5,9,Nurse,Secondary,Certificate,Homme,35-44,Oui,Oui,,,Oui,Oui,5.0,9.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+122,10,11-50,Over 5,10,Nurse,Primary,Certificate,Homme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,6.0,10.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+122,11,11-50,Over 5,11,Other,Secondary,None,Femme,45 or older,Non,Oui,,,Oui,Non,7.0,11.0,Other,Femme,Oui,,,Autres,Non
+122,12,11-50,Over 5,12,Other,Post-Secondary,None,Homme,45 or older,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,8.0,12.0,Other,Homme,Oui,,,Autres,Non
+122,13,11-50,Over 5,13,Other,Post-Secondary,Advanced,Homme,35-44,Non,Non,Absence non autorisée,,Non,Non,,,,,,,,,
+122,14,11-50,Over 5,14,Other,Secondary,None,Femme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+122,15,11-50,Over 5,15,Other,Secondary,Diploma,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+122,16,11-50,Over 5,16,Other,Post-Secondary,Advanced,Homme,35-44,Non,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+122,17,11-50,Over 5,17,Other,Post-Secondary,Advanced,Homme,Younger than 25,Non,Non,Mission officielle,,Oui,Non,9.0,17.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+122,18,11-50,Over 5,18,Other,Post-Secondary,Advanced,Homme,45 or older,Non,Non,Maladie/maternité,,Oui,Non,10.0,18.0,Other,Homme,Non,Maladie/maternité,,,
+122,19,11-50,Over 5,19,Other,Secondary,None,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+123,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+123,2,5 or less,5 or less,2,Other,Primary,None,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,2.0,2.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+124,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+124,2,5 or less,5 or less,2,Nurse,Primary,None,Homme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+125,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+125,2,5 or less,5 or less,2,Other,Primary,Certificate,Femme,35-44,Oui,Non,Maladie/maternité,,Oui,Non,2.0,2.0,Other,Femme,Non,Maladie/maternité,,,
+125,3,5 or less,5 or less,3,Other,Primary,None,Femme,25-34,Non,Oui,,,Oui,Non,3.0,3.0,Other,Femme,Oui,,,Autres,Non
+126,1,11-50,5 or less,1,Doctor,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+126,2,11-50,5 or less,2,Clinical Officer,Post-Secondary,Advanced,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,2.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+126,3,11-50,5 or less,3,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,3.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+126,4,11-50,5 or less,4,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Maladie/maternité,,Non,Non,,,,,,,,,
+126,5,11-50,5 or less,5,Nurse,Primary,None,Homme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,3.0,5.0,Nurse,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+126,6,11-50,5 or less,6,Nurse,Primary,None,Homme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,4.0,6.0,Nurse,Homme,Non,Autres (à préciser),,,
+126,7,11-50,5 or less,7,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+126,8,11-50,5 or less,8,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,5.0,8.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+126,9,11-50,5 or less,9,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,6.0,9.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+126,10,11-50,5 or less,10,Other,Primary,None,Femme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+126,11,11-50,5 or less,11,Other,Primary,None,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,7.0,11.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+126,12,11-50,5 or less,12,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+126,13,11-50,5 or less,13,Other,Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,8.0,13.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+126,14,11-50,5 or less,14,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,9.0,14.0,Other,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+126,15,11-50,5 or less,15,Other,Secondary,None,Homme,45 or older,Non,Oui,,,Oui,Non,10.0,15.0,Other,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+127,1,5 or less,5 or less,1,Nurse,Primary,Certificate,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+127,2,5 or less,5 or less,2,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+128,1,5 or less,5 or less,1,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+129,1,11-50,5 or less,1,Nurse,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+129,2,11-50,5 or less,2,Nurse,Secondary,None,Homme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Cherche des informations/formation,Non
+129,3,11-50,5 or less,3,Nurse,Secondary,None,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,3.0,3.0,Nurse,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+129,4,11-50,5 or less,4,Nurse,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,4.0,4.0,Nurse,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+129,5,11-50,5 or less,5,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Formation/séminaire/réunion,,Oui,Non,5.0,5.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+129,6,11-50,5 or less,6,Other,Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Oui,Oui,6.0,6.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+129,7,11-50,5 or less,7,Other,Secondary,Diploma,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,7.0,7.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+129,8,11-50,5 or less,8,Other,Secondary,Diploma,Homme,35-44,Non,Oui,,,Oui,Non,8.0,8.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+129,9,11-50,5 or less,9,Other,Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,9.0,9.0,Other,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+129,10,11-50,5 or less,10,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Mission officielle,,Oui,Non,10.0,10.0,Clinical Officer,Homme,Non,Absence autorisée (permission/congé),,,
+130,1,5 or less,5 or less,1,Nurse,Post-Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+130,2,5 or less,5 or less,2,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+130,3,5 or less,5 or less,3,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+131,1,11-50,Over 5,1,Doctor,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Mission officielle,,Non,Non,,,,,,,,,
+131,2,11-50,Over 5,2,Clinical Officer,Secondary,Advanced,Homme,35-44,Oui,Non,Formation/séminaire/réunion,,Oui,Non,1.0,2.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+131,3,11-50,Over 5,3,Nurse,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,3.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+131,4,11-50,Over 5,4,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Autres (à préciser),,Oui,Non,3.0,4.0,Nurse,Homme,Non,Autres (à préciser),,,
+131,5,11-50,Over 5,5,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+131,6,11-50,Over 5,6,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Non,Autres (à préciser),,Non,Non,,,,,,,,,
+131,7,11-50,Over 5,7,Nurse,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+131,8,11-50,Over 5,8,Nurse,Primary,None,Homme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,4.0,8.0,Nurse,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+131,9,11-50,Over 5,9,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Formation/séminaire/réunion,,Oui,Non,5.0,9.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+131,10,11-50,Over 5,10,Other,Secondary,Diploma,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+131,11,11-50,Over 5,11,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,6.0,11.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+131,12,11-50,Over 5,12,Other,Primary,None,Femme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+131,13,11-50,Over 5,13,Other,Primary,None,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,7.0,13.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+131,14,11-50,Over 5,14,Other,Post-Secondary,,Homme,25-34,Non,Oui,,,Oui,Non,8.0,14.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+131,15,11-50,Over 5,15,Other,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Oui,Non,9.0,15.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+131,16,11-50,Over 5,16,Other,Secondary,Diploma,Homme,35-44,Non,Non,Formation/séminaire/réunion,,Non,Non,,,,,,,,,
+131,17,11-50,Over 5,17,Other,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Non,Non,,,,,,,,,
+131,18,11-50,Over 5,18,Nurse,Primary,None,Homme,45 or older,Oui,Non,Mission officielle,,Non,Non,,,,,,,,,
+131,19,11-50,Over 5,19,Other,Secondary,None,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+131,20,11-50,Over 5,20,Other,Secondary,None,Homme,25-34,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+131,21,11-50,Over 5,21,Other,Primary,None,Femme,35-44,Non,Non,Mission officielle,,Oui,Non,10.0,21.0,Other,Femme,Non,Mission officielle,,,
+131,22,11-50,Over 5,22,Other,Primary,None,Femme,35-44,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+131,23,11-50,Over 5,23,Other,Secondary,None,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+132,1,11-50,Over 5,1,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+132,2,11-50,Over 5,2,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+132,3,11-50,Over 5,3,Nurse,Secondary,None,Homme,35-44,Oui,Oui,,,Oui,Oui,3.0,3.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+132,4,11-50,Over 5,4,Other,Primary,None,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,4.0,4.0,Other,Femme,Oui,,,Cherche des informations/formation,Non
+132,5,11-50,Over 5,5,Other,Primary,None,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,5.0,5.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+132,6,11-50,Over 5,6,Other,Primary,None,Femme,25-34,Oui,Oui,Absence autorisée (permission/congé),,Oui,Oui,6.0,6.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+132,7,11-50,Over 5,7,Other,Post-Secondary,Advanced,Homme,35-44,Non,Non,Absence autorisée (permission/congé),,Oui,Non,7.0,7.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+132,8,11-50,Over 5,8,Other,Primary,None,Homme,35-44,Non,Non,Absence autorisée (permission/congé),,Oui,Non,8.0,8.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+132,9,11-50,Over 5,9,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,9.0,9.0,Other,Homme,Oui,,,Cherche des informations/formation,Non
+133,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+133,2,5 or less,5 or less,2,Other,Primary,None,Femme,25-34,Oui,Non,Mission officielle,,Oui,Non,2.0,2.0,Other,Femme,Non,Mission officielle,,,
+133,3,5 or less,5 or less,3,Nurse,Secondary,None,Homme,45 or older,Oui,Oui,,,Oui,Oui,3.0,3.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+133,4,5 or less,5 or less,4,Other,Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Autres,Non
+134,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+134,2,5 or less,5 or less,2,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+135,1,5 or less,5 or less,1,Nurse,Primary,None,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence non autorisée,,,
+136,1,11-50,Over 5,1,Doctor,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,1.0,1.0,Doctor,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+136,2,11-50,Over 5,2,Clinical Officer,Secondary,Advanced,Homme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+136,3,11-50,Over 5,3,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+136,4,11-50,Over 5,4,Nurse,Secondary,Diploma,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+136,5,11-50,Over 5,5,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,5.0,Nurse,Femme,Non,Maladie/maternité,,,
+136,6,11-50,Over 5,6,Nurse,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,3.0,6.0,Nurse,Femme,Non,Absence non autorisée,,,
+136,7,11-50,Over 5,7,Nurse,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,4.0,7.0,Nurse,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+136,8,11-50,Over 5,8,Other,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,5.0,8.0,Other,Femme,Non,Absence non autorisée,,,
+136,9,11-50,Over 5,9,Nurse,Primary,Certificate,Homme,45 or older,Oui,Oui,,,Oui,Non,6.0,9.0,Nurse,Homme,Non,Absence non autorisée,,,
+136,10,11-50,Over 5,10,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+136,11,11-50,Over 5,11,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Non,Non,,,,,,,,,
+136,12,11-50,Over 5,12,Nurse,Secondary,None,Homme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+136,13,11-50,Over 5,13,Nurse,Secondary,None,Homme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+136,14,11-50,Over 5,14,Other,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+136,15,11-50,Over 5,15,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+136,16,11-50,Over 5,16,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,7.0,16.0,Other,Homme,Non,Absence non autorisée,,,
+136,17,11-50,Over 5,17,Other,Secondary,None,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+136,18,11-50,Over 5,18,Other,,None,Femme,45 or older,Oui,Oui,,,Non,Non,,,,,,,,,
+136,19,11-50,Over 5,19,Other,Primary,None,Femme,35-44,Oui,Non,Absence autorisée (permission/congé),,Oui,,8.0,19.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+136,20,11-50,Over 5,20,Other,Primary,None,Femme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+136,21,11-50,Over 5,21,Other,Post-Secondary,Advanced,Homme,35-44,Non,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+136,22,11-50,Over 5,22,Other,Secondary,Diploma,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+136,23,11-50,Over 5,23,Other,Secondary,None,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+136,24,11-50,Over 5,24,Other,Post-Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,9.0,24.0,Other,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+136,25,11-50,Over 5,25,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,10.0,25.0,Other,Homme,Oui,,,Autres,Non
+137,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Maladie/maternité,,,
+137,2,5 or less,5 or less,2,Nurse,Primary,None,Homme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+137,3,5 or less,5 or less,3,Other,Secondary,Diploma,Femme,25-34,Oui,Non,Maladie/maternité,,Oui,Non,3.0,3.0,Other,Femme,Non,Maladie/maternité,,,
+138,1,5 or less,5 or less,1,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+139,1,5 or less,5 or less,1,Nurse,Secondary,None,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+139,2,5 or less,5 or less,2,Other,Primary,None,Femme,Younger than 25,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Autres,Non
+140,1,5 or less,5 or less,1,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+140,2,5 or less,5 or less,2,Other,Secondary,None,Femme,25-34,Non,Non,Absence autorisée (permission/congé),,Oui,Non,2.0,2.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+141,1,5 or less,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+141,2,5 or less,5 or less,2,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+141,3,5 or less,5 or less,3,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+141,4,5 or less,5 or less,4,Other,Secondary,None,Homme,45 or older,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Autres,Non
+142,1,11-50,Over 5,1,Doctor,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,1.0,1.0,Doctor,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+142,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Clinical Officer,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+142,3,11-50,Over 5,3,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+142,4,11-50,Over 5,4,Other,Secondary,Diploma,Homme,45 or older,Non,Non,Absence autorisée (permission/congé),,Oui,,4.0,4.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+142,5,11-50,Over 5,5,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+142,6,11-50,Over 5,6,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Non,Mission officielle,,Non,,,,,,,,,,
+142,7,11-50,Over 5,7,Other,Primary,None,Femme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+142,8,11-50,Over 5,8,Nurse,Secondary,Diploma,Femme,35-44,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+142,9,11-50,Over 5,9,Other,Secondary,Diploma,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,5.0,9.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+142,10,11-50,Over 5,10,Other,Secondary,Diploma,Femme,25-34,Oui,Non,Maladie/maternité,,Oui,,6.0,10.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+142,11,11-50,Over 5,11,Other,Secondary,None,Femme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+142,12,11-50,Over 5,12,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,7.0,12.0,Other,Femme,Oui,,,Autres,Non
+142,13,11-50,Over 5,13,Other,Post-Secondary,,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+142,14,11-50,Over 5,14,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,8.0,14.0,Other,Femme,Oui,,,Autres,Non
+142,15,11-50,Over 5,15,Other,Post-Secondary,None,Homme,45 or older,Non,Oui,,,Oui,Non,9.0,15.0,Other,Homme,Oui,,,Autres,Non
+142,16,11-50,Over 5,16,Other,Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,10.0,16.0,Other,Homme,Oui,,,Autres,Non
+143,1,5 or less,5 or less,1,Nurse,Primary,None,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+143,2,5 or less,5 or less,2,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+144,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+144,2,5 or less,5 or less,2,Other,Primary,Certificate,Femme,Younger than 25,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+144,3,5 or less,5 or less,3,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+145,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+145,2,5 or less,5 or less,2,Other,Secondary,Diploma,Femme,45 or older,Oui,Non,Absence non autorisée,,Oui,,2.0,2.0,Other,Femme,Non,Absence non autorisée,,,
+146,1,11-50,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Non,Absence autorisée (permission/congé),,,
+146,2,11-50,5 or less,2,Nurse,Secondary,Certificate,Homme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+146,3,11-50,5 or less,3,Nurse,Secondary,None,Homme,Younger than 25,Oui,Oui,,,Oui,Oui,3.0,3.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+146,4,11-50,5 or less,4,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+146,5,11-50,5 or less,5,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,5.0,5.0,Other,Femme,Non,Autres (à préciser),ELLE A ETE AFFECTEE DU CMS. ELLE EST PARTI DEPUIS,,
+146,6,11-50,5 or less,6,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,6.0,6.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+146,7,11-50,5 or less,7,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,7.0,7.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+146,8,11-50,5 or less,8,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,8.0,8.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+146,9,11-50,5 or less,9,Other,Secondary,None,Femme,25-34,Non,Non,Absence autorisée (permission/congé),,Oui,,9.0,9.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+147,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence non autorisée,,,
+147,2,5 or less,5 or less,2,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+147,3,5 or less,5 or less,3,Other,Secondary,None,Homme,Younger than 25,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+148,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+148,2,5 or less,5 or less,2,Nurse,Primary,None,Homme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+148,3,5 or less,5 or less,3,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+148,4,5 or less,5 or less,4,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+149,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence non autorisée,,,
+149,2,5 or less,5 or less,2,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Non,Autres (à préciser),ELLE A ETE AFFECTEE DEPUIS HIER DU CENTRE DONC ELL,,
+149,3,5 or less,5 or less,3,Other,Secondary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+150,1,11-50,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Non,Absence autorisée (permission/congé),,,
+150,2,11-50,5 or less,2,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Non,Absence non autorisée,,,
+150,3,11-50,5 or less,3,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,3.0,3.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+150,4,11-50,5 or less,4,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Non,Absence non autorisée,,,
+150,5,11-50,5 or less,5,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,5.0,5.0,Other,Femme,Non,Absence non autorisée,,,
+150,6,11-50,5 or less,6,Other,Primary,None,Femme,25-34,Non,Oui,,,Oui,Non,6.0,6.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+150,7,11-50,5 or less,7,Other,Primary,None,Femme,45 or older,Non,Oui,,,Oui,Non,7.0,7.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+150,8,11-50,5 or less,8,Other,Secondary,None,Homme,45 or older,Non,Oui,,,Oui,Non,8.0,8.0,Other,Homme,Oui,,,Autres,Non
+150,9,11-50,5 or less,9,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,9.0,9.0,Other,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+150,10,11-50,5 or less,10,Other,Primary,None,Femme,25-34,Non,Oui,,,Oui,Non,10.0,10.0,Other,Femme,Non,Absence non autorisée,,,
+151,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Formation/séminaire/réunion,,,
+151,2,5 or less,5 or less,2,Other,Secondary,None,Femme,35-44,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+151,3,5 or less,5 or less,3,Other,Secondary,None,Homme,45 or older,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Autres,Non
+152,1,11-50,Over 5,1,Doctor,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+152,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Oui,Oui,1.0,2.0,Clinical Officer,Femme,Oui,,,Consultation/visite de malade,Non
+152,3,11-50,Over 5,3,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,3.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+152,4,11-50,Over 5,4,Other,Secondary,Diploma,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,,3.0,4.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+152,5,11-50,Over 5,5,Nurse,Secondary,None,Homme,45 or older,Non,Oui,,,Oui,Non,4.0,5.0,Nurse,Homme,Oui,,,Autres,Non
+152,6,11-50,Over 5,6,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+152,7,11-50,Over 5,7,Other,Secondary,Diploma,Homme,35-44,Non,Oui,,,Oui,Non,5.0,7.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+152,8,11-50,Over 5,8,Other,Primary,None,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+152,9,11-50,Over 5,9,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,6.0,9.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+152,10,11-50,Over 5,10,Other,Primary,None,Femme,45 or older,Non,Oui,,,Oui,Non,7.0,10.0,Other,Femme,Oui,,,Autres,Non
+152,11,11-50,Over 5,11,Other,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,8.0,11.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+152,12,11-50,Over 5,12,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,9.0,12.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+152,13,11-50,Over 5,13,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+152,14,11-50,Over 5,14,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,10.0,14.0,Other,Homme,Oui,,,Autres,Non
+152,15,11-50,Over 5,15,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+152,16,11-50,Over 5,16,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+153,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+153,2,5 or less,5 or less,2,Other,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+153,3,5 or less,5 or less,3,Other,Secondary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+153,4,5 or less,5 or less,4,Nurse,Primary,None,Homme,45 or older,Oui,Oui,,,Oui,Oui,4.0,4.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+153,5,5 or less,5 or less,5,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,5.0,5.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+154,1,6-10,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+154,2,6-10,5 or less,2,Nurse,Secondary,Diploma,Femme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+154,3,6-10,5 or less,3,Nurse,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+154,4,6-10,5 or less,4,Nurse,Primary,None,Homme,35-44,Oui,Oui,,,Oui,Oui,4.0,4.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+154,5,6-10,5 or less,5,Other,Secondary,None,Homme,45 or older,Non,Oui,,,Oui,Non,5.0,5.0,Other,Homme,Oui,,,Autres,Non
+155,1,5 or less,5 or less,1,Nurse,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+155,2,5 or less,5 or less,2,Nurse,Secondary,None,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+156,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+156,2,5 or less,5 or less,2,Other,Primary,None,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+157,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+157,2,5 or less,5 or less,2,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+158,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+158,2,5 or less,5 or less,2,Other,Primary,Certificate,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Non,Absence non autorisée,,,
+159,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,1.0,1.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+159,2,5 or less,5 or less,2,Nurse,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+159,3,5 or less,5 or less,3,Other,Primary,None,Femme,Younger than 25,Non,Oui,,,Oui,Non,3.0,3.0,Other,Femme,Oui,,,Autres,Non
+160,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+160,2,5 or less,5 or less,2,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Non,Mission officielle,,,
+160,3,5 or less,5 or less,3,Nurse,Secondary,None,Homme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+160,4,5 or less,5 or less,4,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Other,Femme,Oui,,,Autres,Non
+161,1,5 or less,5 or less,1,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Other,Femme,Non,Formation/séminaire/réunion,,,
+161,2,5 or less,5 or less,2,Nurse,Post-Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+162,1,11-50,Over 5,1,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+162,2,11-50,Over 5,2,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+162,3,11-50,Over 5,3,Other,Secondary,Diploma,Femme,25-34,Oui,Non,Formation/séminaire/réunion,,Oui,Non,2.0,3.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+162,4,11-50,Over 5,4,Other,Primary,None,Femme,45 or older,Non,Oui,,,Oui,Non,3.0,4.0,Other,Femme,Non,Absence non autorisée,,,
+162,5,11-50,Over 5,5,Nurse,Secondary,Diploma,Femme,35-44,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,4.0,5.0,Nurse,Femme,Non,Mission officielle,,,
+162,6,11-50,Over 5,6,Nurse,Secondary,Diploma,Femme,35-44,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,5.0,6.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+162,7,11-50,Over 5,7,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,6.0,7.0,Other,Homme,Non,Absence non autorisée,,,
+162,8,11-50,Over 5,8,Other,Primary,None,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+162,9,11-50,Over 5,9,Other,Primary,None,Homme,25-34,Oui,Oui,,,Oui,Oui,7.0,9.0,Other,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+162,10,11-50,Over 5,10,Other,Primary,None,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+162,11,11-50,Over 5,11,Other,Primary,None,Femme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+162,12,11-50,Over 5,12,Other,Primary,None,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+162,13,11-50,Over 5,13,Other,Secondary,None,Homme,35-44,Non,Non,Formation/séminaire/réunion,,Oui,Non,8.0,13.0,Other,Homme,Oui,Absence non autorisée,,Consultation/visite de malade,Non
+162,14,11-50,Over 5,14,Other,Primary,None,Femme,45 or older,Non,Oui,,,Oui,Non,9.0,14.0,Other,Femme,Non,Absence non autorisée,,,
+162,15,11-50,Over 5,15,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,10.0,15.0,Other,Femme,Non,Absence non autorisée,,,
+162,16,11-50,Over 5,16,Other,Primary,None,Femme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+163,1,11-50,Over 5,1,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+163,2,11-50,Over 5,2,Doctor,Post-Secondary,Advanced,Homme,45 or older,Oui,Non,Mission officielle,,Non,Non,,,,,,,,,
+163,3,11-50,Over 5,3,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Formation/séminaire/réunion,,Non,Non,,,,,,,,,
+163,4,11-50,Over 5,4,Other,Primary,None,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+163,5,11-50,Over 5,5,Other,Primary,None,Femme,45 or older,Oui,Non,Maladie/maternité,,Non,Non,,,,,,,,,
+163,6,11-50,Over 5,6,Other,Primary,None,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+163,7,11-50,Over 5,7,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,1.0,7.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+163,8,11-50,Over 5,8,Other,Post-Secondary,Advanced,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+163,9,11-50,Over 5,9,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+163,10,11-50,Over 5,10,Other,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+163,11,11-50,Over 5,11,Nurse,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,11.0,Nurse,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+163,12,11-50,Over 5,12,Other,Primary,None,Homme,35-44,Non,Non,Absence autorisée (permission/congé),,Oui,Non,3.0,12.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+163,13,11-50,Over 5,13,Other,Secondary,None,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+163,14,11-50,Over 5,14,Other,Primary,None,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+163,15,11-50,Over 5,15,Other,Secondary,Diploma,Homme,35-44,Non,Non,Formation/séminaire/réunion,,Non,Non,,,,,,,,,
+163,16,11-50,Over 5,16,Other,Secondary,None,Femme,25-34,Non,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+163,17,11-50,Over 5,17,Other,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,4.0,17.0,Other,Femme,Non,Absence non autorisée,,,
+163,18,11-50,Over 5,18,Nurse,Secondary,Diploma,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,5.0,18.0,Nurse,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+163,19,11-50,Over 5,19,Nurse,Primary,Certificate,Femme,35-44,Oui,Non,Formation/séminaire/réunion,,Oui,Non,6.0,19.0,Nurse,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+163,20,11-50,Over 5,20,Other,Post-Secondary,Advanced,Homme,45 or older,Non,Oui,,,Oui,Non,7.0,20.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+163,21,11-50,Over 5,21,Other,Secondary,Diploma,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+163,22,11-50,Over 5,22,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,8.0,22.0,Other,Homme,Non,Absence non autorisée,,,
+163,23,11-50,Over 5,23,Other,Post-Secondary,Advanced,Homme,25-34,Non,Non,Formation/séminaire/réunion,,Oui,Non,9.0,23.0,Other,Homme,Non,Formation/séminaire/réunion,,,
+163,24,11-50,Over 5,24,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Formation/séminaire/réunion,,Oui,Non,10.0,24.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+163,25,11-50,Over 5,25,Other,Secondary,None,Homme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+164,1,6-10,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+164,2,6-10,5 or less,2,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+164,3,6-10,5 or less,3,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+164,4,6-10,5 or less,4,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Oui
+164,5,6-10,5 or less,5,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,5.0,5.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+164,6,6-10,5 or less,6,Other,Primary,None,Homme,35-44,Non,Oui,,,Oui,Non,6.0,6.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+164,7,6-10,5 or less,7,Other,Primary,None,Homme,25-34,Non,Oui,,,Oui,Non,7.0,7.0,Other,Homme,Oui,,,Autres,Non
+165,1,6-10,5 or less,1,Nurse,Secondary,Certificate,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence non autorisée,,,
+165,2,6-10,5 or less,2,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Oui
+165,3,6-10,5 or less,3,Nurse,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Nurse,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Oui
+165,4,6-10,5 or less,4,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Non,Mission officielle,,,
+165,5,6-10,5 or less,5,Other,Primary,None,Femme,25-34,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Consultation/visite de malade,Oui
+165,6,6-10,5 or less,6,Other,Primary,None,Homme,35-44,Non,Oui,,,Oui,Non,6.0,6.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Oui
+166,1,11-50,Over 5,1,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+166,2,11-50,Over 5,2,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+166,3,11-50,Over 5,3,Doctor,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Mission officielle,,Non,,,,,,,,,,
+166,4,11-50,Over 5,4,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Non,Maladie/maternité,,Oui,,2.0,4.0,Nurse,Femme,Non,Absence non autorisée,,,
+166,5,11-50,Over 5,5,Clinical Officer,Post-Secondary,Advanced,Homme,45 or older,Oui,Non,Mission officielle,,Oui,,3.0,5.0,Clinical Officer,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+166,6,11-50,Over 5,6,Other,Post-Secondary,,Homme,25-34,Non,Non,Mission officielle,,Oui,,4.0,6.0,Other,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+166,7,11-50,Over 5,7,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+166,8,11-50,Over 5,8,Other,Secondary,Diploma,Homme,35-44,Non,Non,Mission officielle,,Oui,,5.0,8.0,Other,Homme,Non,Maladie/maternité,,,
+166,9,11-50,Over 5,9,Other,Secondary,Diploma,Homme,35-44,Non,Non,Mission officielle,,Oui,,6.0,9.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+166,10,11-50,Over 5,10,Nurse,Secondary,Diploma,Homme,35-44,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+166,11,11-50,Over 5,11,Nurse,Secondary,Certificate,Homme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+166,12,11-50,Over 5,12,Other,Primary,None,Femme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+166,13,11-50,Over 5,13,Other,Primary,None,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+166,14,11-50,Over 5,14,Other,Primary,None,Femme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Oui,,7.0,14.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+166,15,11-50,Over 5,15,Other,Secondary,None,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+166,16,11-50,Over 5,16,Other,Primary,None,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+166,17,11-50,Over 5,17,Other,Primary,None,Femme,35-44,Non,Oui,,,Oui,Non,8.0,17.0,Other,Femme,Non,Absence non autorisée,,,
+166,18,11-50,Over 5,18,Other,Primary,None,Homme,45 or older,Non,Oui,,,Non,Non,,,,,,,,,
+166,19,11-50,Over 5,19,Nurse,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,9.0,19.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+166,20,11-50,Over 5,20,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,10.0,20.0,Nurse,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+166,21,11-50,Over 5,21,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+167,1,6-10,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Absence non autorisée,,,
+167,2,6-10,5 or less,2,Other,Primary,None,Femme,45 or older,Oui,Non,Mission officielle,,Oui,Non,2.0,2.0,Other,Femme,Non,Mission officielle,,,
+167,3,6-10,5 or less,3,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+167,4,6-10,5 or less,4,Other,Primary,None,Homme,35-44,Oui,Non,Maladie/maternité,,Oui,Non,4.0,4.0,Other,Homme,Non,Maladie/maternité,,,
+167,5,6-10,5 or less,5,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,5.0,5.0,Other,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+168,1,5 or less,5 or less,1,Nurse,Secondary,Certificate,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+168,2,5 or less,5 or less,2,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+168,3,5 or less,5 or less,3,Other,Primary,None,Homme,45 or older,Oui,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Autres,Non
+169,1,11-50,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Non,Formation/séminaire/réunion,,,
+169,2,11-50,5 or less,2,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Nurse,Homme,Non,Absence non autorisée,,,
+169,3,11-50,5 or less,3,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,3.0,3.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+169,4,11-50,5 or less,4,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+169,5,11-50,5 or less,5,Other,Primary,None,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+169,6,11-50,5 or less,6,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,6.0,6.0,Other,Homme,Non,Absence non autorisée,,,
+169,7,11-50,5 or less,7,Other,Secondary,None,Femme,Younger than 25,Non,Oui,,,Oui,Non,7.0,7.0,Other,Femme,Non,Absence non autorisée,,,
+170,1,5 or less,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+170,2,5 or less,5 or less,2,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+170,3,5 or less,5 or less,3,Other,Secondary,None,Homme,Younger than 25,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Autres,Non
+171,1,6-10,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+171,2,6-10,5 or less,2,Nurse,Secondary,Diploma,Homme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,2.0,2.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+171,3,6-10,5 or less,3,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Non,Absence non autorisée,,,
+171,4,6-10,5 or less,4,Other,Secondary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+171,5,6-10,5 or less,5,Other,Primary,None,Femme,25-34,Oui,Non,Absence non autorisée,,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+171,6,6-10,5 or less,6,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,6.0,6.0,Other,Homme,Oui,,,Autres,Non
+171,7,6-10,5 or less,7,Other,Primary,None,Homme,25-34,Non,Oui,,,Oui,Non,7.0,7.0,Other,Homme,Non,Absence non autorisée,,,
+172,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+172,2,5 or less,5 or less,2,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+172,3,5 or less,5 or less,3,Other,,,Femme,45 or older,Non,Oui,,,Oui,Non,3.0,3.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+172,4,5 or less,5 or less,4,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+173,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+173,2,5 or less,5 or less,2,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+173,3,5 or less,5 or less,3,Other,Primary,None,Homme,25-34,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Autres,Non
+173,4,5 or less,5 or less,4,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Non,Absence non autorisée,,,
+174,1,11-50,Over 5,1,Doctor,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+174,2,11-50,Over 5,2,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Oui,Non,1.0,2.0,Clinical Officer,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+174,3,11-50,Over 5,3,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Mission officielle,,Oui,Non,2.0,3.0,Clinical Officer,Homme,Non,Mission officielle,,,
+174,4,11-50,Over 5,4,Other,Post-Secondary,Advanced,Homme,25-34,Non,Non,Mission officielle,,Oui,Non,3.0,4.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+174,5,11-50,Over 5,5,Other,Post-Secondary,Advanced,Homme,35-44,Non,Non,Mission officielle,,Oui,Non,4.0,5.0,Other,Homme,Non,Formation/séminaire/réunion,,,
+174,6,11-50,Over 5,6,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+174,7,11-50,Over 5,7,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+174,8,11-50,Over 5,8,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Absence autorisée (permission/congé),,Non,Non,,,,,,,,,
+174,9,11-50,Over 5,9,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,5.0,9.0,Nurse,Homme,Non,Mission officielle,,,
+174,10,11-50,Over 5,10,Nurse,Secondary,Diploma,Homme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,6.0,10.0,Nurse,Homme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+174,11,11-50,Over 5,11,Other,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+174,12,11-50,Over 5,12,Other,Primary,Certificate,Femme,45 or older,Oui,Non,Maladie/maternité,,Non,Non,,,,,,,,,
+174,13,11-50,Over 5,13,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+174,14,11-50,Over 5,14,Nurse,Primary,Certificate,Femme,45 or older,Oui,Oui,,,Oui,Oui,7.0,14.0,Nurse,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+174,15,11-50,Over 5,15,Nurse,Primary,Certificate,Femme,45 or older,Oui,Non,Maladie/maternité,,Oui,Non,8.0,15.0,Nurse,Femme,Non,Maladie/maternité,,,
+174,16,11-50,Over 5,16,Other,Primary,None,Homme,45 or older,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,9.0,16.0,Other,Homme,Oui,,,Consultation/visite de malade,Oui
+174,17,11-50,Over 5,17,Other,Secondary,None,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,10.0,17.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+174,18,11-50,Over 5,18,Other,Primary,None,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+174,19,11-50,Over 5,19,Other,Secondary,None,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+175,1,11-50,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Femme,Oui,,,Consultation/visite de malade,Non
+175,2,11-50,5 or less,2,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,2.0,2.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+175,3,11-50,5 or less,3,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+175,4,11-50,5 or less,4,Other,Secondary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Non,Absence non autorisée,,,
+175,5,11-50,5 or less,5,Other,Primary,None,Homme,45 or older,Oui,Oui,,,Oui,Oui,5.0,5.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+175,6,11-50,5 or less,6,Other,Secondary,None,Femme,45 or older,Oui,Non,Absence non autorisée,,Oui,Non,6.0,6.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+175,7,11-50,5 or less,7,Other,Primary,None,Femme,45 or older,Non,Oui,,,Oui,Non,7.0,7.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+175,8,11-50,5 or less,8,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,8.0,8.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+176,1,6-10,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+176,2,6-10,5 or less,2,Nurse,Secondary,Diploma,Homme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,2.0,2.0,Nurse,Homme,Non,Absence autorisée (permission/congé),,,
+176,3,6-10,5 or less,3,Other,Secondary,Diploma,Femme,25-34,Oui,Non,Formation/séminaire/réunion,,Oui,Non,3.0,3.0,Other,Femme,Non,Absence non autorisée,,,
+176,4,6-10,5 or less,4,Other,Secondary,Diploma,Femme,25-34,Oui,Non,Maladie/maternité,,Oui,Non,4.0,4.0,Other,Femme,Non,Maladie/maternité,,,
+176,5,6-10,5 or less,5,Other,Primary,None,Femme,Younger than 25,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+176,6,6-10,5 or less,6,Other,Primary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,6.0,6.0,Other,Femme,Oui,,,Autres,Non
+177,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+177,2,5 or less,5 or less,2,Other,Secondary,None,Femme,25-34,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,2.0,2.0,Other,Femme,Non,Maladie/maternité,,,
+177,3,5 or less,5 or less,3,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Oui,3.0,3.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+177,4,5 or less,5 or less,4,Other,Primary,None,Homme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+177,5,5 or less,5 or less,5,Other,,None,Femme,35-44,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+178,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Homme,25-34,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+178,2,5 or less,5 or less,2,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+178,3,5 or less,5 or less,3,Other,Primary,None,Homme,35-44,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+178,4,5 or less,5 or less,4,Other,Primary,None,Homme,35-44,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Autres,Non
+179,1,Over 50,Over 5,1,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Non,Non,,,,,,,,,
+179,2,Over 50,Over 5,2,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,1.0,2.0,Nurse,Homme,Non,Absence non autorisée,,,
+179,3,Over 50,Over 5,3,Nurse,Secondary,None,Homme,45 or older,Non,Non,Mission officielle,,Oui,Non,2.0,3.0,Nurse,Homme,Non,Mission officielle,,,
+179,4,Over 50,Over 5,4,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+179,5,Over 50,Over 5,5,Doctor,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Mission officielle,,Oui,Non,3.0,5.0,Doctor,Homme,Oui,,,,Non
+179,6,Over 50,Over 5,6,Nurse,Primary,Certificate,Femme,45 or older,Non,Non,Formation/séminaire/réunion,,Non,Non,,,,,,,,,
+179,7,Over 50,Over 5,7,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+179,8,Over 50,Over 5,8,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Non,Formation/séminaire/réunion,,Non,Non,,,,,,,,,
+179,9,Over 50,Over 5,9,Other,Secondary,None,Femme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+179,10,Over 50,Over 5,10,Other,Primary,Certificate,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,Non,,,,,,,,,
+179,11,Over 50,Over 5,11,Nurse,Post-Secondary,Advanced,Femme,45 or older,Oui,Non,Formation/séminaire/réunion,,Non,Non,,,,,,,,,
+179,12,Over 50,Over 5,12,Nurse,Secondary,Diploma,Homme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+179,13,Over 50,Over 5,13,Nurse,Secondary,Diploma,Homme,35-44,Oui,Oui,,,Non,Oui,,,,,,,,,
+179,14,Over 50,Over 5,14,Other,Post-Secondary,Advanced,Homme,45 or older,Non,Oui,,,Oui,Non,4.0,14.0,Other,Homme,Non,Absence non autorisée,,,
+179,15,Over 50,Over 5,15,Nurse,Post-Secondary,Advanced,Femme,45 or older,Oui,Oui,,,Non,Oui,,,,,,,,,
+179,16,Over 50,Over 5,16,Other,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,5.0,16.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+179,17,Over 50,Over 5,17,Other,Primary,Certificate,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,6.0,17.0,Other,Femme,Non,Absence non autorisée,,,
+179,18,Over 50,Over 5,18,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+179,19,Over 50,Over 5,19,Other,Secondary,Diploma,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Oui,Non,7.0,19.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+179,20,Over 50,Over 5,20,Nurse,Secondary,Certificate,Homme,35-44,Oui,Non,Mission officielle,,Non,Non,,,,,,,,,
+179,21,Over 50,Over 5,21,Other,Post-Secondary,Certificate,Femme,35-44,Oui,Non,Absence autorisée (permission/congé),,Oui,Non,8.0,21.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+179,22,Over 50,Over 5,22,Nurse,Secondary,Certificate,Femme,25-34,Oui,Non,Mission officielle,,Oui,Non,9.0,22.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+179,23,Over 50,Over 5,23,Other,Secondary,None,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+179,24,Over 50,Over 5,24,Other,Primary,None,Femme,45 or older,Non,Oui,,,Oui,Non,10.0,24.0,Other,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+179,25,Over 50,Over 5,25,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+180,1,5 or less,5 or less,1,Nurse,Secondary,Diploma,Femme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+180,2,5 or less,5 or less,2,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+181,1,6-10,5 or less,1,Nurse,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Non,Formation/séminaire/réunion,,,
+181,2,6-10,5 or less,2,Other,Secondary,None,Homme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+181,3,6-10,5 or less,3,Other,Primary,None,Homme,45 or older,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+181,4,6-10,5 or less,4,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+181,5,6-10,5 or less,5,Other,Primary,None,Femme,25-34,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+182,1,5 or less,5 or less,1,Nurse,Secondary,Certificate,Homme,45 or older,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+182,2,5 or less,5 or less,2,Other,Secondary,None,Homme,45 or older,Oui,Oui,,,Oui,Oui,2.0,2.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+182,3,5 or less,5 or less,3,Other,Primary,None,Femme,45 or older,Oui,Oui,,,Oui,Oui,3.0,3.0,Other,Femme,Non,Absence autorisée (permission/congé),,,
+182,4,5 or less,5 or less,4,Other,Secondary,None,Homme,45 or older,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+183,1,11-50,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Non,Formation/séminaire/réunion,,,
+183,2,11-50,5 or less,2,Other,Primary,None,Homme,35-44,Non,Oui,,,Oui,Non,2.0,2.0,Other,Homme,Oui,,,Traitement de dossiers/élaboration de rapports,Non
+183,3,11-50,5 or less,3,Nurse,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,3.0,3.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+183,4,11-50,5 or less,4,Other,Primary,None,Homme,45 or older,Non,Oui,,,Oui,Non,4.0,4.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+183,5,11-50,5 or less,5,Other,Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,5.0,5.0,Other,Homme,Oui,,,Consultation/visite de malade,Non
+183,6,11-50,5 or less,6,Other,Primary,None,Femme,35-44,Oui,Oui,,,Oui,Oui,6.0,6.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+183,7,11-50,5 or less,7,Other,Secondary,None,Homme,25-34,Non,Oui,,,Oui,Non,7.0,7.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+183,8,11-50,5 or less,8,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Oui,Oui,8.0,8.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+184,1,6-10,5 or less,1,Nurse,Post-Secondary,Advanced,Femme,35-44,Oui,Oui,,,Oui,Oui,,1.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+184,2,6-10,5 or less,2,Doctor,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Absence autorisée (permission/congé),,Oui,,2.0,2.0,Doctor,Homme,Non,Absence autorisée (permission/congé),,,
+184,3,6-10,5 or less,3,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Oui,,,Oui,Oui,3.0,3.0,Clinical Officer,Homme,Non,Maladie/maternité,,,
+184,4,6-10,5 or less,4,Other,Secondary,None,Femme,25-34,Oui,Oui,,,Oui,Oui,4.0,4.0,Other,Femme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+184,5,6-10,5 or less,5,Other,Secondary,None,Homme,25-34,Oui,Oui,,,Oui,Oui,5.0,5.0,Other,Homme,Oui,,,Discussion avec collègues/réunion/Staff,Non
+184,6,6-10,5 or less,6,Other,Post-Secondary,Advanced,Homme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+185,1,11-50,5 or less,1,Clinical Officer,Post-Secondary,Advanced,Homme,35-44,Oui,Non,Absence autorisée (permission/congé),,Oui,,,1.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+185,2,11-50,5 or less,2,Clinical Officer,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Oui,Oui,2.0,2.0,Clinical Officer,Femme,Oui,,,Consultation/visite de malade,Non
+185,3,11-50,5 or less,3,Other,Post-Secondary,,Homme,25-34,Non,Oui,,,Oui,Non,3.0,3.0,Other,Homme,Oui,,,Laboratoires/examens/radios,Non
+185,4,11-50,5 or less,4,Nurse,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,4.0,4.0,Nurse,Femme,Oui,,,Laboratoires/examens/radios,Non
+185,5,11-50,5 or less,5,Nurse,Secondary,None,Homme,35-44,Non,Oui,,,Oui,Non,5.0,5.0,Nurse,Homme,Oui,,,Autres,Non
+185,6,11-50,5 or less,6,Nurse,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,6.0,6.0,Nurse,Femme,Oui,,,Autres,Non
+185,7,11-50,5 or less,7,Nurse,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,7.0,7.0,Nurse,Femme,Oui,,,Autres,Non
+185,8,11-50,5 or less,8,Nurse,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,8.0,8.0,Nurse,Femme,Oui,,,Autres,Non
+185,9,11-50,5 or less,9,Nurse,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,9.0,9.0,Nurse,Femme,Oui,,,Autres,Non
+185,10,11-50,5 or less,10,Other,Primary,None,Femme,35-44,Non,Oui,,,Oui,Non,10.0,10.0,Other,Femme,Oui,,,Autres,Non
+186,1,5 or less,5 or less,1,Nurse,Secondary,None,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Nurse,Homme,Oui,,,Consultation/visite de malade,Non
+187,1,11-50,Over 5,1,Clinical Officer,Post-Secondary,Advanced,Femme,45 or older,Oui,Non,Formation/séminaire/réunion,,Oui,,,1.0,Clinical Officer,Femme,Oui,,,Consultation/visite de malade,Non
+187,2,11-50,Over 5,2,Other,Post-Secondary,,Homme,35-44,Non,Oui,,,Non,Oui,,,,,,,,,
+187,3,11-50,Over 5,3,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+187,4,11-50,Over 5,4,Other,Secondary,Diploma,Femme,35-44,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+187,5,11-50,Over 5,5,Other,Post-Secondary,Advanced,Femme,25-34,Non,Non,Absence autorisée (permission/congé),,Non,,,,,,,,,,
+187,6,11-50,Over 5,6,Clinical Officer,Post-Secondary,Advanced,Femme,35-44,Oui,Non,Formation/séminaire/réunion,,Non,,,,,,,,,,
+187,7,11-50,Over 5,7,Nurse,Post-Secondary,Advanced,Femme,35-44,Non,Oui,,,Oui,Non,2.0,7.0,Nurse,Femme,Oui,,,Laboratoires/examens/radios,Non
+187,8,11-50,Over 5,8,Clinical Officer,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Maladie/maternité,,Oui,,3.0,8.0,Clinical Officer,Femme,Non,Maladie/maternité,,,
+187,9,11-50,Over 5,9,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Formation/séminaire/réunion,,Non,,,,,,,,,,
+187,10,11-50,Over 5,10,Clinical Officer,Post-Secondary,Advanced,Femme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+187,11,11-50,Over 5,11,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,"Repos de garde (pré-garde, sortie de garde)",,Non,,,,,,,,,,
+187,12,11-50,Over 5,12,Nurse,Secondary,Diploma,Femme,35-44,Non,Oui,,,Oui,Non,4.0,12.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+187,13,11-50,Over 5,13,Nurse,Secondary,Diploma,Femme,35-44,Non,Oui,,,Oui,Non,5.0,13.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
+187,14,11-50,Over 5,14,Other,Secondary,Diploma,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+187,15,11-50,Over 5,15,Clinical Officer,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Mission officielle,,Oui,,6.0,15.0,Clinical Officer,Femme,Oui,,,Consultation/visite de malade,Non
+187,16,11-50,Over 5,16,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+187,17,11-50,Over 5,17,Nurse,Secondary,Diploma,Femme,35-44,Non,Oui,,,Oui,Non,7.0,17.0,Nurse,Femme,Oui,,,Consultation/visite de malade,Non
+187,18,11-50,Over 5,18,Nurse,Secondary,Certificate,Femme,35-44,Non,Oui,,,Non,Non,,,,,,,,,
+187,19,11-50,Over 5,19,Clinical Officer,Post-Secondary,Advanced,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+187,20,11-50,Over 5,20,Nurse,Post-Secondary,Advanced,Homme,25-34,Non,Oui,,,Oui,Non,8.0,20.0,Nurse,Homme,Oui,,,Autres,Non
+187,21,11-50,Over 5,21,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Oui,,,Non,Oui,,,,,,,,,
+187,22,11-50,Over 5,22,Other,Secondary,Diploma,Femme,35-44,Oui,Non,Absence autorisée (permission/congé),,Oui,,9.0,22.0,Other,Femme,Oui,,,Consultation/visite de malade,Non
+187,23,11-50,Over 5,23,Nurse,Secondary,Diploma,Femme,25-34,Non,Oui,,,Non,Non,,,,,,,,,
+187,24,11-50,Over 5,24,Nurse,Post-Secondary,Advanced,Femme,25-34,Oui,Non,Mission officielle,,Non,,,,,,,,,,
+187,25,11-50,Over 5,25,Other,Secondary,Diploma,Femme,25-34,Oui,Oui,,,Oui,Oui,10.0,25.0,Other,Femme,Non,"Repos de garde (pré-garde, sortie de garde)",,,
+188,1,11-50,Over 5,1,Clinical Officer,Post-Secondary,,Homme,35-44,Oui,Oui,,,Oui,Oui,1.0,1.0,Clinical Officer,Homme,Non,Mission officielle,,,
+188,2,11-50,Over 5,2,Other,Post-Secondary,,Homme,35-44,Non,Non,Organisation interne en journée continue,,Oui,,2.0,2.0,Other,Homme,Non,Absence autorisée (permission/congé),,,
+188,3,11-50,Over 5,3,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Non,Formation/séminaire/réunion,,Oui,,3.0,3.0,Clinical Officer,Homme,Oui,,,Consultation/visite de malade,Non
+188,4,11-50,Over 5,4,Clinical Officer,Post-Secondary,Advanced,Homme,25-34,Oui,Oui,,,Oui,Oui,4.0,4.0,Clinical Officer,Homme,Oui,,,Laboratoires/examens/radios,Non
+188,5,11-50,Over 5,5,Other,Secondary,None,Femme,25-34,Non,Oui,,,Oui,Non,5.0,5.0,Other,Femme,Oui,,,Autres,Non
+188,6,11-50,Over 5,6,Nurse,Post-Secondary,Advanced,Femme,25-34,Non,Non,Absence autorisée (permission/congé),,Oui,,6.0,6.0,Nurse,Femme,Non,Absence autorisée (permission/congé),,,
