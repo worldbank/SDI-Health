@@ -2,7 +2,7 @@
 Harmonize SDI Facility Data
 
 Author: Anna Konstantinova
-Last edited: May 3rd, 2018
+Last edited: March 2nd, 2019
 */
 
 ****************************************************************************
@@ -21,13 +21,13 @@ Last edited: May 3rd, 2018
 				if `r(N)'>0 local haslab = "vallab"
 			restore
 
-			applyCodebook_ak using "$metadata/`place'_infrastructure_codebook.xlsx", varlab rename `haslab' sheet("General")
+			applyCodebook using "$metadata/`place'_infrastructure_codebook.xlsx", varlab rename `haslab' sheet("General")
 
 		//Modify infrastructure-services variables
-			applyCodebook_ak using "$metadata/`place'_infrastructure_codebook.xlsx", varlab rename vallab sheet("Infrastructure")
+			applyCodebook using "$metadata/`place'_infrastructure_codebook.xlsx", varlab rename vallab sheet("Infrastructure")
 
 		//Modify drugs-supplies-tests-vaccines variables
-			applyCodebook_ak using "$metadata/`place'_infrastructure_codebook.xlsx", varlab rename vallab sheet("Drugs-Vaccines")
+			applyCodebook using "$metadata/`place'_infrastructure_codebook.xlsx", varlab rename vallab sheet("Drugs-Vaccines")
 
 		//Remove unwanted variables
 			cap drop q? q??

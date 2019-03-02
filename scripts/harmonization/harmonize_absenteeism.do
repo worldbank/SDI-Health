@@ -2,7 +2,7 @@
 Harmonize SDI Roster-Absenteeism Data
 
 Author: Anna Konstantinova
-Last edited: June 4th, 2018
+Last edited: March 2nd, 2019
 */
 
 ****************************************************************************
@@ -14,7 +14,7 @@ Last edited: June 4th, 2018
 		use "$clean/SDI_`place'/`place'_roster_clean.dta", clear
 		
 		//Modify provider level characteristics data
-			applyCodebook_ak using "$metadata/`place'_roster_codebook", varlab rename vallab
+			applyCodebook using "$metadata/`place'_roster_codebook", varlab rename vallab
 
 		//Remove unwanted variables
 			cap drop q*

@@ -2,7 +2,7 @@
 Harmonize SDI Vignette Data
 
 Author: Anna Konstantinova
-Last edited: June 4th, 2018
+Last edited: March 2nd, 2019
 */
 
 ****************************************************************************
@@ -16,7 +16,7 @@ Last edited: June 4th, 2018
 		use "$clean/SDI_`place'/`place'_vignettes_clean.dta", clear
 		
 		//Modify provider level characteristics data
-			applyCodebook_ak using "$metadata/`place'_vignettes_codebook", varlab rename vallab sheet("General")
+			applyCodebook using "$metadata/`place'_vignettes_codebook", varlab rename vallab sheet("General")
 
 		//Set which vignettes are present in which country datasets
 			local diseases = ""
@@ -29,7 +29,7 @@ Last edited: June 4th, 2018
 
 		//Modify each vignette
 			foreach disease in  `diseases' {
-				applyCodebook_ak using "$metadata/`place'_vignettes_codebook", varlab rename vallab sheet("`disease'")
+				applyCodebook using "$metadata/`place'_vignettes_codebook", varlab rename vallab sheet("`disease'")
 				local lowerdisease = lower("`disease'")
 				foreach x in "history" "exam" "test" "diag" "treat" "educate" "refer" "action" "stop" "failed" {
 					cap rename `x'* `lowerdisease'_`x'*
